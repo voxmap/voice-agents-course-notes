@@ -1,0 +1,44 @@
+Pipecat Class Content
+
+- Create a repo to house these thoughts
+  - this random stream of thought style live notes
+- Brainstorm the name of the repo
+  - "Voice Agents course with Pipecat"
+  - "Notes on the Voice Agents course with Pipecat"
+  - ask Claude 3.7 and ask about words like brain dump or mindmap as inspo
+  - trying to keep the URL slug in mind
+  - Claude, Gemini, ChatGPT
+    - voice-agents-course-notes
+      - this one won
+- Maybe think out loud about setting the limits of whats posted in there
+  - respecting the property of the team
+  - insights more for classmates vs gen pop
+- folder for sidequests
+  - course relevant sidequests
+- file per class or folder per class?
+  - i lean towards folder per
+- goals for the course in README
+  - my stated maven goals
+    - Q: What are your goals for the course? What brought you here? What challenges are you working on?
+    - A: Mostly voice evals and learning the Pipecat codebase. Goal: a conversational agent trained on casual conversations with friends running locally.
+  - goal of allowing other students who dont have as much time to tap in
+    - maybe meta comments on the class itself as opposed to the content
+    - rephrasing the general sentiment and comments from chat
+- thoughts on class number 1
+  - first impression dialog
+- bring in tasks.md notes
+- try to reframe questions for personal and maybe group understanding
+  - from neel
+    - pipecat vs livekit
+      - grab the kwindla quote from the lightning round prior to class
+      - twas articulated well there iirc
+  - from ankit
+    - mostly about observability
+    - langfuse not having a direct integration with pipecat
+      - i pointed him in the direction of w&b weave but not even sure if thats right
+    - he also asked about measuring the latency of a voice agent and i paraphrased kwindla in saying the tools we have in place now dont do a good job of it.
+      - must be done manually or build your own tools bc vendors think about server side and not custom facing/client side?
+      - dont quote me, ymmv, iirc etc
+- post relevant code snippets from class number 1
+- section for student projects
+- add glossary and script to pull list of glossary items to create initial prompt for whisper
