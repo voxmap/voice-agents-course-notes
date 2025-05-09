@@ -1,0 +1,731 @@
+WEBVTT
+
+00:01.032 --> 00:14.716
+All right, this is just a quick brainstorming session on what I can do to kind of like organize my thoughts into a repository for this voice agents course with Pipecat.
+
+00:15.756 --> 00:24.118
+The inspiration comes from like I had already kind of started to create a tasks list based on session number one, which is about the voice agents landscape.
+
+00:28.240 --> 00:28.420
+And
+
+00:30.677 --> 00:37.787
+The landscape session, the class, class number one was actually really good and had a bunch of thoughts around that.
+
+00:38.288 --> 00:44.857
+And then I saw some of the banter, the dialogue going back and forth, and I was like, man, I really want to address some of these things.
+
+00:45.706 --> 00:48.208
+Oftentimes, for me, if I don't write it down, it just doesn't get done.
+
+00:48.228 --> 00:59.895
+So I'm hoping that this video recording session, brainstorming session, will serve as context for the repo that I'm making.
+
+00:59.915 --> 01:08.481
+Hopefully, I can transcribe this and get some context in there, as well as these notes that I've already written down as to what
+
+01:09.085 --> 01:10.526
+how I want to organize this information.
+
+01:10.546 --> 01:15.250
+I think that's mostly what I need help with at a high level, is like how to organize it.
+
+01:18.252 --> 01:24.316
+Some of this will get pushed back, like me playing around with the apps won't happen right now.
+
+01:24.336 --> 01:32.322
+And I think I won't be able to get to summarizing the general sentiment of the Zoom chat versus Discord.
+
+01:32.342 --> 01:34.384
+That's another idea that I think would be helpful.
+
+01:36.892 --> 01:54.566
+I'll tell you a major benefit, not a major benefit, but like, it was really cool seeing Kwindla in session number one had like an official, almost like organizer, orchestrator, a moderator of sorts, live, that was like reading off questions.
+
+01:55.347 --> 02:03.994
+And I thought to myself, man, it's, I think, it's not something I had really considered or thought about before, but I think,
+
+02:06.831 --> 02:08.093
+I didn't think of this as a solution.
+
+02:08.153 --> 02:08.934
+Let me say it like that.
+
+02:09.354 --> 02:15.360
+But I'm constantly thinking about how to provide value and the most value in whatever situation I'm in.
+
+02:16.141 --> 02:28.654
+And it kind of came to mind that I think a way to provide value in this scenario is to be able to articulate
+
+02:29.485 --> 02:48.026
+Questions from classmates may be better than they can or maybe my articulation isn't better but I just have the time to actually attend class and maybe they don't. So they didn't get a chance to ask a question that they would have. So that's something of value to not only the
+
+02:49.042 --> 02:52.384
+Team giving the course, but also the people taking the course.
+
+02:54.485 --> 02:56.086
+So those two thoughts kind of got me going.
+
+02:56.186 --> 02:57.927
+I'm going to go ahead and start this 15 minute timer.
+
+02:57.947 --> 03:05.511
+I don't have a whole lot of time, but I think it would be a really cool thing if I could at least start the process of putting this together.
+
+03:06.111 --> 03:14.395
+Most of what I am bottlenecked by right now is like, I can't think of good names that I would love to use for.
+
+03:18.513 --> 03:25.263
+I'm actually gonna make this, this would be so cool as like some kind of browser input on OBS and I just have like the timer going, that would be fire.
+
+03:26.525 --> 03:29.248
+Even better if I could see it on my screen but I just think that's really cool.
+
+03:30.911 --> 03:32.814
+So first things first, I
+
+03:34.807 --> 03:36.828
+would like to brainstorm a name.
+
+03:37.869 --> 03:43.012
+These are like tasks that I would like to get done, live stream ideas that I want to follow up on.
+
+03:43.893 --> 03:48.976
+So these are definitely a part of the repo, but like maybe not so high level.
+
+03:49.576 --> 03:50.737
+I'm going to back up a step.
+
+03:52.338 --> 03:53.979
+And let me just read the tasks out loud.
+
+03:54.279 --> 03:58.302
+Again, this is kind of like the source of like the start of this thought was like,
+
+03:59.639 --> 04:00.560
+Let me write this down.
+
+04:00.820 --> 04:07.325
+And then I had like a revelation a couple hours after the first class where I was like, oh, this should be a whole repo.
+
+04:09.146 --> 04:15.631
+And I have some thoughts around whether or not the repo or like how the repo should be structured, what should go into the repo, what should stay out of it.
+
+04:15.651 --> 04:17.592
+I'll get into that in a second.
+
+04:17.993 --> 04:25.738
+But the original act of me writing down tasks.md kind of like kicked this whole thing off.
+
+04:25.779 --> 04:26.479
+So I should read it.
+
+04:26.919 --> 04:28.661
+So it's like present in the transcription.
+
+04:29.537 --> 04:46.682
+So anyways, it says voice agents course with Pipecat is like the header, and it says this is a, or I'm paraphrasing, this is a, but what it really says is running list of thoughts plus tasks based on the Maven voice agent class hosted by Kwindla et al.
+
+04:48.098 --> 04:49.718
+So Kwindla and crew.
+
+04:51.039 --> 04:56.540
+And then the subheader says overview session follow up May 7th, 2025.
+
+04:57.880 --> 05:03.661
+Which is really like the what I was referring to earlier as like the landscape overview number of class number one.
+
+05:04.621 --> 05:09.142
+So there are three bullet points, and then some some nested bullet points on the third one.
+
+05:09.722 --> 05:14.343
+And the first bullet point is start a new thread on Vertex slash AI studio because I saw a comment in discord.
+
+05:15.483 --> 05:19.746
+Bullet point number two is share 429 code with Paulus in a thread.
+
+05:19.886 --> 05:24.910
+There was a thread started for how to handle exhausted resources on the Gemini side.
+
+05:26.761 --> 05:33.003
+And those are like two things that I had some thoughts on, so I just kind of gravitated towards that first.
+
+05:33.283 --> 05:38.285
+But I didn't want to address it while class was going, because I lose focus really easily, like super easily distracted.
+
+05:38.305 --> 05:40.445
+I was like, let me write these down, and I'll come back to them later.
+
+05:41.025 --> 05:44.667
+And then I want to do a live stream on my thoughts after class.
+
+05:44.687 --> 05:46.047
+That's what's going on right now.
+
+05:48.088 --> 05:51.789
+And as a part of that, I also wanted to play with some Pipecat apps that have been published.
+
+05:52.830 --> 05:59.114
+Don't have time for it right now, but I also want to do like a summarization of the comments.
+
+05:59.514 --> 06:00.935
+So that's the third bullet point.
+
+06:00.995 --> 06:05.318
+And there are some some nested bullet points below this bullet point I just read out loud.
+
+06:06.298 --> 06:08.700
+So it says note general thoughts after class.
+
+06:09.180 --> 06:10.421
+And that's kind of like what I'm doing now.
+
+06:10.601 --> 06:12.302
+I'll get into more detail on that.
+
+06:12.782 --> 06:17.625
+But I also want to summarize general questions from the Zoom chat and see if there's anything that
+
+06:18.473 --> 06:22.556
+hasn't been posted to Discord that got asked in Zoom and maybe wasn't addressed.
+
+06:23.036 --> 06:33.163
+And that's kind of like, you're talking about working with three corpuses of data, like transcriptions, text, what was posted in Discord, what was posted in Zoom chat, and then what was said live.
+
+06:33.503 --> 06:42.249
+So those three things are a little bit difficult, I think, one shot for even the largest language model, like let's say a Gemini 2.5 Pro to handle.
+
+06:42.729 --> 06:45.631
+So I don't know how I'm going to do that part.
+
+06:45.831 --> 06:47.773
+I know how to get all the text in the same repo,
+
+06:48.773 --> 06:59.804
+I know how to prompt the model, I think, accordingly, but not so confident on the results, like the responses from it, based on my experience.
+
+07:01.226 --> 07:08.092
+But I just think that would be super helpful, again, not only to the team, but for any classmates that didn't get their question answered.
+
+07:08.112 --> 07:08.853
+I think that would be cool.
+
+07:10.503 --> 07:11.383
+Okay, so we're five minutes in.
+
+07:11.403 --> 07:17.246
+I was hoping to get the repo at least started, so I'll just go over some of the thoughts that I had.
+
+07:17.786 --> 07:23.028
+My first impression was that man, like,
+
+07:24.545 --> 07:30.788
+I'm very happy that, first of all, I'm happy and thankful to even be in the class, to be honest with you.
+
+07:30.928 --> 07:35.310
+That's first thought off the top, was like, wow, this is really cool.
+
+07:36.450 --> 07:47.575
+I've heard Kwindla already speak on the landscape, so there wasn't anything groundbreaking in that first class, but I really love how organized it was, and that he had a full team with him of people answering questions.
+
+07:47.615 --> 07:52.998
+I think that was really, really well organized as well, because in my experience,
+
+07:53.778 --> 07:55.218
+on and off the Maven platform.
+
+07:55.238 --> 07:57.359
+I've been taking courses online for many, many years.
+
+07:57.899 --> 08:06.402
+And oftentimes you can kind of tell that they need extra help, like that it's somewhat disorganized and it turns into a cluster after a while.
+
+08:07.602 --> 08:16.664
+Maybe not in every single scenario, but a lot of times I feel like in the open source community in general, they're not not great at giving courses.
+
+08:17.645 --> 08:22.366
+It ends up being like a one man show and that guy kind of needs a lot of help or a woman needs a lot of help.
+
+08:23.252 --> 08:32.905
+Moderating, so to see like a live moderation team at work, that's actually something I've been a part of, so I can kind of tell from outside looking in, but that was, it was just really, really cool to see that.
+
+08:32.925 --> 08:35.168
+That was my, one of my huge first impressions.
+
+08:35.809 --> 08:40.756
+The other thing was like, let me, give me a second to gather my thoughts.
+
+08:42.432 --> 08:43.632
+I don't know, overall it was just a great class.
+
+08:43.832 --> 08:47.994
+I liked the community that was typing into the Zoom chat as well as Discord.
+
+08:48.054 --> 08:49.614
+Seemed to be a lot of positivity and buzz.
+
+08:49.654 --> 08:54.096
+I just think they're building a strong community of really interesting people, so I think that was cool.
+
+08:55.216 --> 08:57.217
+Not apparent to me.
+
+08:58.237 --> 09:26.330
+how deep that is because again it's just the first class and like you never know like until we get a couple classes in but I also think that um there's another another thought I had other than but mostly it was just a good class oh oh oh uh Swyx was not present but uh Kwindla and and team were there's another kind of like first impression there which like uh for me personally was expected you know being honest but
+
+09:28.519 --> 09:43.743
+I think there was one more thought that I can't surface off the top of my head, but in general, the first class, nothing groundbreaking, but it did give me a lot of ideas based on the feedback, based on the banter in both chats, in Zoom and in Discord.
+
+09:45.183 --> 09:57.467
+I already had a couple of big projects in mind for Pipecat, specifically Pipecat Flows as well, but to see all of the, it was very inspiring, a lot of the chat,
+
+09:59.557 --> 10:04.702
+But I just have a lot of ideas that I need to execute on, basically, based on what I saw in the chat.
+
+10:04.783 --> 10:07.545
+So that was my other, like, probably final first impressions.
+
+10:07.586 --> 10:08.086
+Like, wow.
+
+10:08.486 --> 10:16.155
+Like, you're among a lot of, like, a community of people that are, like, really doing things in this space and, like, building out voice agents.
+
+10:16.415 --> 10:17.276
+So I think that was cool.
+
+10:17.676 --> 10:19.798
+But more than anything, it was just, like,
+
+10:22.851 --> 10:25.974
+even outside of these notes that I've taken here, which I think were cool.
+
+10:27.315 --> 10:29.036
+I just got a lot of inspiration from the chat.
+
+10:29.357 --> 10:43.909
+And then also, again, I kind of referenced this at the beginning, but like seeing Nina moderate live and kind of gather, like convert chat into questions, coherent questions for Kwindla was like super eye-opening.
+
+10:43.929 --> 10:47.812
+And I was like, yeah, that's something that I would love to do to contribute.
+
+10:50.626 --> 10:56.470
+And obviously not for the live sessions, but yeah, just in general in chat.
+
+10:56.490 --> 10:57.390
+I think that would be cool.
+
+10:58.911 --> 11:01.593
+Make it easier for them to find interesting questions or good questions.
+
+11:03.254 --> 11:07.436
+So yeah, that was kind of my first impression, my thoughts on the class.
+
+11:07.456 --> 11:12.759
+I feel like I've written that down in loose form or another, but now it's in the transcript.
+
+11:12.779 --> 11:14.941
+So that'll help a lot as I fill out the repo.
+
+11:20.100 --> 11:33.744
+I guess the only other thing is to kind of try and structure the repo accordingly.
+
+11:34.985 --> 11:46.228
+First things first, let's... I have a couple, just to label off some of the things I've written down under Pipecat class content.
+
+11:47.345 --> 11:49.127
+is to create a repo to house these thoughts.
+
+11:52.909 --> 11:56.412
+First things first, I definitely need to brainstorm the name of the repo, because that's kind of like holding me up.
+
+11:56.832 --> 11:57.273
+It's dumb.
+
+12:00.395 --> 12:03.337
+This is something that really should be, like this idea should be bounced off the team.
+
+12:03.397 --> 12:13.225
+So I don't know if I'll waste time on it here, but I should think about setting the limits of what's posted in the repo, being that this is a course that people paid a good bit of money for.
+
+12:16.872 --> 12:23.295
+Yeah, the overall hierarchy of the repo I'm kind of stumbling upon.
+
+12:23.315 --> 12:25.456
+I need to get that together.
+
+12:25.476 --> 12:28.497
+Oh, my stated goals for the course.
+
+12:29.377 --> 12:42.563
+What essentially I wrote into Maven was that I mostly, what I took the course for mostly was voice evals and learning the Pipecat code base.
+
+12:46.813 --> 12:53.179
+A big goal for me is I want to create a conversational agent trained on casual conversations with friends running locally.
+
+12:53.679 --> 12:56.301
+So having a voice agent like that would be really, really cool.
+
+13:00.785 --> 13:03.487
+Yes, so putting my stated goals in the repo is important.
+
+13:04.368 --> 13:10.073
+And much of what I said earlier about articulating
+
+13:14.500 --> 13:22.464
+The general sentiment of the community that's taking this course for people that don't have time to tap in is also kind of like a goal of mine.
+
+13:29.647 --> 13:33.849
+I stated this earlier too, but I want to try and reframe questions for personal and maybe group understanding.
+
+13:35.249 --> 13:36.790
+I want to post relevant code snippets.
+
+13:38.130 --> 13:43.893
+because we, again, handling the 429 errors from Gemini API was something we already discussed.
+
+13:44.774 --> 13:46.014
+So, yeah.
+
+13:47.175 --> 13:48.536
+Okay.
+
+13:49.056 --> 13:56.780
+With four minutes left, what I'm thinking is we brainstorm with Claude on repo names.
+
+13:57.421 --> 14:02.984
+And once I have the name, and for me, keeping the slug in mind is important, the URL slug.
+
+14:03.484 --> 14:05.485
+But once I have a name, I can move forward.
+
+14:06.161 --> 14:15.061
+So what I was going to do to brainstorm is pull in, in Markdown, I want to pull in, how about this, we do this in two parts.
+
+14:38.854 --> 14:39.456
+Let's see.
+
+14:40.881 --> 14:44.873
+I got to be careful here too because I know Cloud only gives you X amount of things.
+
+14:45.774 --> 14:57.740
+Oh, one of the things I also want to put in the repo, there's a bunch of folders, like I want a folder for sidequests, kind of like this 429 code I keep mentioning, as well as like the AI Studio slash Vertex conversation.
+
+14:58.180 --> 15:04.222
+But another sidequest is that I want to, well, there's a bunch of sidequests, I just want a folder for sidequests.
+
+15:04.743 --> 15:06.604
+I also want a folder for like student projects.
+
+15:06.944 --> 15:11.706
+So that's another thing that's been relevant in the courses that I've taken recently is that like the students
+
+15:12.006 --> 15:22.869
+The ones that are super involved and already building things tend to build things around the course itself or projects relevant to the course that they may not have built if they weren't taking the course.
+
+15:23.670 --> 15:26.550
+And they share it with the classmates.
+
+15:26.931 --> 15:31.392
+And I think having a cool repository of those would be awesome, would be amazing.
+
+15:31.812 --> 15:34.293
+So that should be a folder in the repo, in my opinion.
+
+15:35.253 --> 15:36.553
+And maybe a couple other folders.
+
+15:36.774 --> 15:39.354
+But I guess one of the big things that I
+
+15:44.457 --> 15:45.517
+Oh, it just slipped my mind.
+
+15:46.117 --> 15:48.838
+Oh, I, not depending, right?
+
+15:48.878 --> 15:53.559
+Because like, I'm not exactly sure where the limit should be.
+
+15:53.679 --> 16:03.061
+I think I'm already pushing a limit by like creating a public repo of this information, but I have to check with like the course creators, like Kwindla and team, how they feel about it.
+
+16:03.101 --> 16:11.503
+But I think it would be really cool to have this ultimately be the documents
+
+16:12.605 --> 16:15.846
+that are fed to a chat bot for like RAG.
+
+16:16.006 --> 16:18.066
+So for anybody that missed a class, hey, what did I miss?
+
+16:18.106 --> 16:18.846
+What did we talk about?
+
+16:19.226 --> 16:24.088
+And I can kind of like personalize it for their, like from their perspective, like what they're interested in.
+
+16:24.108 --> 16:25.668
+I think that will be really cool.
+
+16:26.708 --> 16:30.549
+I don't know how much, like that might be something that Kwindla's already doing internally too.
+
+16:30.609 --> 16:31.709
+So I don't want to step on toes.
+
+16:33.950 --> 16:35.570
+But yeah, I just think that would be really cool.
+
+16:38.871 --> 16:39.891
+Download this markdown.
+
+16:42.461 --> 16:58.854
+I wonder, can I just copy... If I copy this and I put it into... It sure didn't.
+
+17:02.758 --> 17:03.978
+Copy, oh, okay, got it.
+
+17:05.620 --> 17:05.880
+Right.
+
+17:08.022 --> 17:10.604
+I'm just double checking it off screen here.
+
+17:10.824 --> 17:11.885
+Yeah, this looks much better.
+
+17:13.991 --> 17:24.637
+Okay, with that copied, we start a new chat and say, help me brainstorm for a repo.
+
+17:26.138 --> 17:27.599
+I'm already down to, oh, holy cow.
+
+17:27.619 --> 17:34.683
+Okay, I'm gonna get at least one brainstorm off, a prompt off, and then I'll go ahead and end the video.
+
+17:35.003 --> 17:37.465
+Help me brainstorm for a repo.
+
+18:20.848 --> 18:22.276
+Chorus, and then...
+
+19:37.557 --> 19:38.977
+This is where I can come.
+
+19:43.839 --> 19:45.639
+I'm probably just going to go with this one lightweight.
+
+19:47.440 --> 19:49.721
+Voice agents, of course, with Pipecat.
+
+19:53.042 --> 19:53.822
+Fairly reasonable.
+
+20:58.420 --> 20:59.701
+All right, that's gonna be good enough.
+
+21:00.762 --> 21:01.942
+Been three minutes on the prompt.
+
+21:14.510 --> 21:19.333
+Pipecat, Voice, AI Notes, Vocal, Mindscape.
+
+21:19.353 --> 21:20.814
+Okay.
+
+21:23.856 --> 21:25.537
+Vocal Mindscape, Voice Mindscape.
+
+21:27.174 --> 21:28.795
+The word Mindscape is kind of crazy.
+
+21:35.498 --> 21:37.659
+It's not a workshop, it's a course or a class.
+
+21:38.840 --> 21:39.940
+Maven Voice AI 2025.
+
+21:39.980 --> 21:40.161
+Yeah.
+
+21:40.221 --> 21:40.701
+All right.
+
+21:42.622 --> 21:53.007
+Enough is enough.
+
+21:54.508 --> 21:55.008
+Time to catch.
+
+21:56.909 --> 22:02.191
+A few Z's, uh, man.
+
+22:05.271 --> 22:11.413
+Yeah, I just, I think the next big step for me is to take all this information.
+
+22:11.433 --> 22:13.254
+I didn't like any of that.
+
+22:13.374 --> 22:24.057
+Okay, so just to, just to read off a couple of the names, it gave me Voice Agents Stream, Pipecat Voice AI Notes, Voice AI Journal, Voice Agent Thoughtflow,
+
+22:25.650 --> 22:32.711
+Vocal Mindscape is like the closest I found to like, this is memorable, it is short and sweet.
+
+22:33.552 --> 22:34.372
+I wouldn't mind it.
+
+22:35.272 --> 22:41.993
+I don't think... To me, it says something bigger than the course notes though.
+
+22:44.514 --> 22:45.014
+You know what I mean?
+
+22:45.274 --> 22:51.275
+Like, maybe I wouldn't include so many detailed notes about the course specifically for something like this.
+
+22:52.322 --> 23:04.192
+I almost want an artifact of the course to exist in a way that often doesn't exist because it's not the goal of the people giving the course, the team giving the course.
+
+23:07.374 --> 23:12.538
+And then for the students, it has not enough value for them to do it themselves.
+
+23:13.779 --> 23:19.724
+So this is much, yeah, to be frank, it's an artifact of the course.
+
+23:21.721 --> 23:22.822
+I think is the way that you would say that.
+
+23:22.842 --> 23:23.883
+Yeah, yeah.
+
+23:51.476 --> 23:51.636
+Yep.
+
+23:52.176 --> 23:55.037
+So anyways, the next big step, I don't like any of the names it gave me.
+
+23:55.057 --> 23:59.659
+I'm probably just going to go with, like, Voice Agents Course with Pipecat.
+
+23:59.839 --> 24:04.100
+It's a bit on the longer side, but I think it's very clear that this is, like, specifically for the course.
+
+24:04.920 --> 24:07.681
+And it's Voice Agents and Pipecat.
+
+24:07.741 --> 24:09.041
+Really, Kwindla is, like, hosting it.
+
+24:09.061 --> 24:10.602
+So yeah, yeah.
+
+24:10.822 --> 24:11.642
+I think that's it.
+
+24:13.443 --> 24:20.425
+My next big step is to pull all this information here and everything from the tasks into the
+
+24:21.727 --> 24:24.811
+Repo, ask about the hierarchy.
+
+24:25.692 --> 24:26.793
+I think that makes a lot of sense.
+
+24:28.094 --> 24:29.476
+Stated goals in the README.
+
+24:29.496 --> 24:31.979
+Other than that, keep it simple.
+
+24:32.039 --> 24:40.869
+And then maybe start to do, one thing I actually would really like to do is to start to collect these student projects that I talked about.
+
+24:53.837 --> 25:09.052
+because John George already shared an hour-long notebook LM podcast, essentially, on the primer that Kwindla and team have put out.
+
+25:11.128 --> 25:18.235
+and there's another student named Neil that produced a graphic and then a blog post.
+
+25:18.876 --> 25:21.398
+So I just thought that would be cool to kind of like collect all of it.
+
+25:21.959 --> 25:31.849
+And I also think that having, I think other people also produce a lot of content over the course of the class.
+
+25:32.785 --> 25:35.786
+And starting now probably wouldn't be a bad thing.
+
+25:36.827 --> 25:44.290
+So yeah, I'll also, like the Neil one I already have set to the side.
+
+25:44.310 --> 25:45.991
+I already saved the link.
+
+25:48.071 --> 25:52.593
+So I'm going to ask, John George has a bunch of videos on his YouTube channel that are really good.
+
+25:52.953 --> 25:54.754
+So I'm just going to ask him, do you mind hosting?
+
+25:55.314 --> 26:01.157
+So at John George, do you mind hosting this on your YouTube channel so I can link to it?
+
+26:01.317 --> 26:01.737
+Question mark.
+
+26:15.504 --> 26:16.305
+Alright, that's it.
+
+26:16.405 --> 26:17.365
+I'm already 10 minutes past.
+
+26:19.647 --> 26:19.907
+Peace.
+
+26:20.608 --> 26:25.111
+Hopefully this transcript will be useful to put into the repo as well.
+
+26:25.471 --> 26:31.415
+Or maybe even just my conversation with the model about like the hierarchy and how I should organize things.
+
+26:31.815 --> 26:35.178
+I think ultimately like one thing I figured out about me kind of like
+
+26:36.804 --> 26:43.609
+Worrying about this stuff ahead of times like you don't get the hierarchy right until you like started to fill out some of the content So I'm worrying about stuff that doesn't matter.
+
+26:43.629 --> 27:00.740
+We just end up crossing that bridge when we get there, you know Maybe that that part works, but I did want to at least brainstorm about it a little bit I definitely have already some ideas for directories and folders and some of the hierarchy figured out but
+
+27:02.060 --> 27:03.581
+Yeah, we'll kind of go from there.
+
+27:03.601 --> 27:06.522
+Hopefully we can better organize it as we go.
+
+27:06.982 --> 27:11.904
+I also want to open up like issues and PRs and stuff for anybody that has information that wants to add to it.
+
+27:12.425 --> 27:14.165
+But I think this will be largely a personal thing.
+
+27:14.345 --> 27:17.327
+I don't think anybody else wants to dive that deep.
+
+27:20.748 --> 27:27.311
+Man, I really hope in a couple hours I have some energy and I can put together me analyzing
+
+27:28.137 --> 27:34.002
+GitHub versus, or not even GitHub, sorry, Discord chat versus Zoom chat, because I think that's super interesting.
+
+27:35.023 --> 27:40.488
+I don't know, maybe nothing got missed, but I have a feeling, I have a hunch, you know.
+
+27:41.870 --> 27:46.013
+Hopefully I have some time for that before the next class in about seven hours or so.
+
+27:46.814 --> 27:47.395
+All right, peace.
+
