@@ -1,0 +1,124 @@
+People:
+  Kwindla Hultman Kramer:
+    description: Kwindla is an American technologist, entrepreneur, and CEO known for his pioneering work in real-time video, audio, and AI infrastructure.
+    misspellings: [kwen, qwen, qwin]
+    nicknames: [Kwindla, Kwin]
+    usernames: [kwindla]
+    roles: [Founder, CEO at Daily, Maintainer of Pipecat]
+
+  Shawn "Swyx" Wang:
+    description: Swyx is a prominent developer, founder, writer, and thought leader in the fields of AI engineering and developer tools. He is best known as the Editor and Co-host of Latent Space, a podcast and newsletter that explores the rise of the AI Engineer and the latest trends in artificial intelligence.
+    misspellings: [sean, sean weng, swix]
+    nicknames: [Swyx]
+    usernames: [swyx]
+    roles: [Editor of the Latent Space newsletter, Cohost of the Latent Space podcast, Founder of Smol AI]
+
+
+Products:
+  W&B Weave:
+    description: A comprehensive platform by Weights & Biases for LLMOps that provides observability, evaluation, and monitoring tools for AI applications. It enables tracking of LLM calls, debugging, prompt management, and performance optimization with minimal code integration.
+    misspellings: [wandb weave, WandB Weave]
+    nicknames: [Weave]
+    category: [Observability, Developer Tool, MLOps]
+    vendor: Weights & Biases
+    url: [https://wandb.ai/site/weave]
+
+  Langfuse:
+    description: An open-source LLM observability platform for tracing, debugging, and evaluating AI applications. It provides tools for monitoring production usage, collecting user feedback, tracking costs, and identifying quality issues in complex LLM applications and agent workflows.
+    misspellings: []
+    nicknames: []
+    category: [Observability, Developer Tool]
+    vendor: Langfuse GmbH
+    url: [https://langfuse.com]
+
+  LiveKit:
+    description: An open-source platform for building real-time audio, video, and data applications based on WebRTC. It provides SDKs for multiple platforms, supports AI integration, and offers both cloud-hosted and self-hosted deployment options.
+    misspellings: []
+    nicknames: []
+    category: [Voice, Video, Real time Communications]
+    vendor: LiveKit
+    url: [https://livekit.io]
+
+  Sonnet 3.7:
+    description: A state-of-the-art large language model developed by Anthropic, released in February 2025. Claude 3.7 Sonnet is the first hybrid reasoning model, featuring the ability to produce near-instant responses or extended, step-by-step thinking that is made visible to the user.
+    misspellings: [Claude 3 point 7]
+    nicknames: [Claude Sonnet, Claude 3.7, Sonnet 3.7, 3.7]
+    category: [Large Language Model]
+    vendor: Anthropic
+    url: [https://www.anthropic.com/news/claude-3-7-sonnet]
+
+  GPT-4o:
+    description: OpenAI's multimodal large language model released in May 2024, succeeding GPT-4. The "o" stands for "omni," reflecting its ability to process and generate text, image, and audio content simultaneously with near-human latency. It supports over 50 languages and has a 128K token context window.
+    misspellings: [GPT 40, 40, Four Oh, GPT4o]
+    nicknames: [4o, GPT-4 Omni]
+    category: [Large Language Model, Multimodal Model]
+    vendor: OpenAI
+    url: [https://openai.com/index/hello-gpt-4o/]
+
+  Gemini 2.5 Pro:
+    description: Google's advanced multimodal AI model released in May 2025 as part of the Gemini family. It's designed as a "thinking model" that can reason through complex problems step-by-step, with a massive 1 million token context window.
+    misspellings: [Gemini 2.5, Gemini 2.5pro]
+    nicknames: [2.5 Pro, Gemini Pro]
+    category: [Large Language Model, Multimodal Model]
+    vendor: Google
+    url: [https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/]
+
+  Whisper:
+    description: An open-source ASR model from OpenAI capable of multilingual transcription and translation with robust performance across diverse audio environments.
+    misspellings: []
+    nicknames: []
+    category: [ASR, Speech Recognition]
+    vendor: OpenAI
+    url: [https://openai.com/research/whisper]
+
+  Word Wrangler:
+    description: An application, possibly a demo or tool related to Pipecat.
+    misspellings: []
+    nicknames: []
+    category: [Application, Demo]
+    vendor: Pipecat
+    url: [https://word-wrangler.vercel.app/]
+
+  Turn Training:
+    description: An application or tool associated with Pipecat, possibly for training or demonstrating turn-taking.
+    misspellings: []
+    nicknames: []
+    category: [Application, Demo, Training Tool]
+    vendor: Pipecat
+    url: [https://turn-training.pipecat.ai/]
+
+
+Frameworks:
+  Pipecat:
+    description: An open-source Python framework for building real-time voice and multimodal conversational AI agents. It allows developers to orchestrate audio and video, AI services, different transports, and conversation pipelines effortlessly. It integrates with numerous services including speech-to-text, LLMs, text-to-speech, speech-to-speech, transport, video, memory, vision, image generation, and audio processing solutions.
+    misspellings: [Pipekat, Pipe Kat, Pipecap]
+    nicknames: []
+    category: [Voice, Framework, Library, Agent]
+    vendor: Daily
+    url: [https://www.pipecat.ai/]
+
+
+Concepts:
+  Voice Agents:
+    description: AI systems that can communicate through voice, engaging in natural conversations with humans. They combine speech recognition, language understanding, and speech synthesis to automate tasks like answering questions, scheduling appointments, or providing personalized assistance without requiring human intervention.
+    misspellings: []
+    categories: [AI, Voice]
+    examples: [Siri, Alexa, Google Assistant, ChatGPT Voice]
+    synonyms: [Voice Assistants, Conversational Agents, Voice Bots]
+    related: [ASR, TTS, LLMs, Conversational AI]
+
+  ASR:
+    description: Automatic Speech Recognition converts spoken language into text. Think of it as the "ears" of voice systems, translating what you say into words a computer can understand. It's what lets your phone transcribe your voice messages or allows customer service bots to understand your requests.
+    misspellings: []
+    categories: [AI, Speech]
+    examples: [Closed captions on videos, Dictation software]
+    synonyms: [Speech-to-Text, STT, Voice Recognition]
+    related: [Whisper, Deepgram, AssemblyAI]
+
+  Observability:
+    description: The ability to measure, understand, and analyze the internal state and performance of AI systems. For voice agents, observability helps developers track how well the agent understands different accents, identify where conversations break down, and improve the overall user experience through data-driven insights.
+    misspellings: []
+    categories: [Software Engineering, AI Operations]
+    examples: [Call success rates, Error tracking, Response time monitoring, User satisfaction metrics]
+    synonyms: [Monitoring, Telemetry, Performance Analysis]
+    related: [Logging, Metrics, Tracing, Debugging]
