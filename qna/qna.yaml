@@ -1,0 +1,1439 @@
+- question_id: S01Q001
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Hey all! Everybody in the waiting room?
+  question_source: discord
+  question_username: andre_albuquerque
+  question_timestamp: 2025-05-07T11:01:29.209-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369705710182465646
+  tags: [waiting-room, session-start]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q002
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Don't we have a session today ?
+  question_source: discord
+  question_username: jeetkarsh
+  question_timestamp: 2025-05-07T11:05:09.581-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369706634489761954
+  tags: [session, schedule]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q003
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Can't find the link to join the session
+  question_source: discord
+  question_username: jeetkarsh
+  question_timestamp: 2025-05-07T11:05:25.258-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369706700243861587
+  tags: [session-link, zoom-link]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q004
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    nice, how did you make this graphic?
+  question_source: discord
+  question_username: emanperez28
+  question_timestamp: 2025-05-07T11:17:07.096-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369709643965923328
+  tags: [graphic, diagram, tool]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q005
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    800ms with tools calls and detailed workflows?
+  question_source: discord
+  question_username: .droyster
+  question_timestamp: 2025-05-07T11:17:26.202-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369709726102061056
+  tags: [latency, tool-calls, workflows]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q006
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Have you got 500-800ms with Twilio/PSTN/Telephony or browser WebRTC?
+  question_source: discord
+  question_username: meeep0480
+  question_timestamp: 2025-05-07T11:18:02.877-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710069557952573
+  tags: [latency, twilio, webrtc]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q007
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    can we get access to this slides? or they are available over maven platform?
+  question_source: discord
+  question_username: captain__nik
+  question_timestamp: 2025-05-07T11:18:09.135-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710089337962566
+  tags: [slides, course-materials, maven]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q008
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    What abut voice cloning with different accents, would love to have a module comparing the different models for that
+  question_source: discord
+  question_username: iggyal
+  question_timestamp: 2025-05-07T11:18:09.856-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710093196726364
+  tags: [voice-cloning, accents, models]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q009
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    what about integration of voicebot with open source telephony like asterisk
+  question_source: discord
+  question_username: vishalp4487_84660
+  question_timestamp: 2025-05-07T11:19:01.970-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710304842158101
+  tags: [voicebot, integration, asterisk]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q010
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    nova has nova 3 and nova 2 phonecall. Has anyone benchmarked them for phone calls? Not obvious which is better
+  question_source: discord
+  question_username: .droyster
+  question_timestamp: 2025-05-07T11:19:41.541-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710471449088031
+  tags: [nova, benchmark, phone-calls]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q011
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Curious to see if someone proved how latency affects user behavior - metrics/patterns. How much do we really need to squeeze latency? Sometimes quality can be more important
+  question_source: discord
+  question_username: semionn.
+  question_timestamp: 2025-05-07T11:20:01.964-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710558197452941
+  tags: [latency, user-behavior, metrics]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q012
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    how were the ttft and p95 ttft calculated? what is the dataset they are measured on?
+  question_source: discord
+  question_username: wgpubs
+  question_timestamp: 2025-05-07T11:20:35.798-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710701778047016
+  tags: [ttft, p95, metrics, dataset]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q013
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    are folks also using gpt-4.1 for voice use cases or is gpt-4o still preferred?
+  question_source: discord
+  question_username: danielgrittner_02502
+  question_timestamp: 2025-05-07T11:21:02.534-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710815315820604
+  tags: [gpt-4.1, gpt-4o, voice-models]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q014
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    what about 4.1-mini?
+  question_source: discord
+  question_username: danielgrittner_02502
+  question_timestamp: 2025-05-07T11:22:00.854-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369711063180902491
+  tags: [gpt-4.1-mini, voice-models]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q015
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    4.1 is cheaper than 4o. What about 4.1-nano?
+  question_source: discord
+  question_username: danielgrittner_02502
+  question_timestamp: 2025-05-07T11:24:22.767-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369711658105049139
+  tags: [gpt-4.1-nano, cost, voice-models]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q016
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    What's the eli5 explanation of pipecat vs livekit
+  question_source: discord
+  question_username: harlowregular123_21060
+  question_timestamp: 2025-05-07T11:27:56.159-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369712594244866129
+  tags: [pipecat, livekit, comparison]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q017
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Are there any plans to let us run logic on groq cloud? Last I tried the network latency put time to first token to be a bit slower than I expected, but once I started getting tokens it was crazy fast. Would be unbelievable if I could run it all on groq so there's single digit ms latency
+  question_source: discord
+  question_username: .droyster
+  question_timestamp: 2025-05-07T11:30:06.116-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369713127470809189
+  tags: [groq, cloud-logic, latency]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q018
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    For turn detection we have live kit right?
+  question_source: discord
+  question_username: god_bender
+  question_timestamp: 2025-05-07T11:30:40.741-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369713274114949140
+  tags: [turn-detection, livekit]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q019
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Can you briefly discuss the roles of parallel pipelines? Limitations and best use cases going forward with video and multiple LLM's?
+  question_source: discord
+  question_username: bear0673
+  question_timestamp: 2025-05-07T11:33:25.089-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369713976438231060
+  tags: [parallel-pipelines, video, multiple-llms]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q020
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    I have a question about new Open ai agent platform that includes SST and TTS models. Have you checked their latency vs the models shared today in the slides?
+  question_source: discord
+  question_username: mohgh314
+  question_timestamp: 2025-05-07T11:33:50.353-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714081811140648
+  tags: [openai-agent, sst, tts, latency, models]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q021
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    @Kwindla Hultman Kramer (Daily) What do you envision voice AI applications to look like in 2, 5, or 10 years? When do you think we will pass the turing test for STS?
+  question_source: discord
+  question_username: sunnypatneedi_17327
+  question_timestamp: 2025-05-07T11:35:00.558-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714379327213618
+  tags: [future-voice-ai, turing-test, sts]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q022
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    what do you mean exactly by run logic?
+  question_source: discord
+  question_username: hogroq
+  question_timestamp: 2025-05-07T11:35:06.906-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714406576558130
+  tags: [run-logic, groq]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q023
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    are there good ways to use multimodal models like Gemini to evaluate the tone of TTS models?
+  question_source: discord
+  question_username: morgymcg
+  question_timestamp: 2025-05-07T11:35:17.891-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714452148850829
+  tags: [multimodal-models, gemini, tts-tone, evaluation]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q024
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    I have a question about the course. One of the interesting parts is applying voicebots to digitally manipulate or control websites. Is that something that will be handled in the course?
+  question_source: discord
+  question_username: tristanvandoorn
+  question_timestamp: 2025-05-07T11:35:26.010-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714486681403422
+  tags: [course-content, voicebots, web-manipulation]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q025
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    What about having an LLM choose pre-made answers for questions, so that common question can be answered with higher quality and less hallucination than 100% live fresh LLM answers might generate?
+  question_source: discord
+  question_username: davidesser7746
+  question_timestamp: 2025-05-07T11:35:37.025-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714532526133279
+  tags: [llm, pre-made-answers, rag, hallucination]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q026
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Latency Question : what would be the latency breakdown for telephony usecase . some things are in our control and some is not in control. Can you split that and talk about the levers we have.
+  question_source: discord
+  question_username: beinggandhi
+  question_timestamp: 2025-05-07T11:36:03.911-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714646172369006
+  tags: [latency, telephony, levers]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q027
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    anybody heard of https://roark.ai/ for voice evals
+  question_source: discord
+  question_username: kingluffy1984
+  question_timestamp: 2025-05-07T11:36:09.208-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714667868061736
+  tags: [roark.ai, voice-evals, tools]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q028
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    I am really interested in programming with voice in an IDE. Is there any OSS project that someone might have played around with?
+  question_source: discord
+  question_username: doc_boom.
+  question_timestamp: 2025-05-07T11:36:34.205-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714770952060959
+  tags: [voice-programming, ide, oss-project]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q029
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Concurrency with external services? Is this a good question for the overview session? What are industry strategies to deal with limited concurrent streaming requests possible with STT and TTS in particular?
+  question_source: discord
+  question_username: tscdl
+  question_timestamp: 2025-05-07T11:37:16.975-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714946947944509
+  tags: [concurrency, external-services, stt-tts, streaming]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q030
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    can you please explain a bit more about parallel pipline with gemini
+  question_source: discord
+  question_username: iamcycl0n3
+  question_timestamp: 2025-05-07T11:38:00.300-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715125660815433
+  tags: [parallel-pipeline, gemini]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q031
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    If someone is using Deepgram live streaming (with is_final and end uttarance), then does VAD add any value?
+  question_source: discord
+  question_username: pups_1994
+  question_timestamp: 2025-05-07T11:38:14.241-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715182904348764
+  tags: [deepgram, live-streaming, vad]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q032
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Anyone know voice-to-voice AI models that do detailed speech analysis? I'm working on a speech therapy solution. OpenAI's realtime API has filters and won't go deep on articulation, pitch, resonance, etc.
+  question_source: discord
+  question_username: emanperez28
+  question_timestamp: 2025-05-07T11:38:21.044-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715212511346789
+  tags: [voice-to-voice, speech-analysis, speech-therapy]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q033
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Are there pipecat implementation examples for SIP integration ? ie If we need IVR to reansfer the audio call (like SIP transfer) over to a pipecat bot ?
+  question_source: discord
+  question_username: vivacious_starfish_85218
+  question_timestamp: 2025-05-07T11:38:36.811-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715279454736404
+  tags: [pipecat, sip-integration, ivr]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q034
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Do we have any idea when pipecats turn detection would be coming out no rush though
+  question_source: discord
+  question_username: god_bender
+  question_timestamp: 2025-05-07T11:38:43.939-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715309195169832
+  tags: [pipecat, turn-detection, release]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q035
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Q: What about accents in VR, which are better models here that can have pluggable accents?
+  question_source: discord
+  question_username: webbedfoot
+  question_timestamp: 2025-05-07T11:39:42.708-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715554152681533
+  tags: [accents, vr, models, pluggable-accents]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q036
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Can I ask Kwin to talk about what he thinks about the ASR model building in turn detection?
+  question_source: discord
+  question_username: adrian_68043
+  question_timestamp: 2025-05-07T11:40:10.132-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715669249134702
+  tags: [asr, turn-detection, kwin]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q037
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    For client-server text, what do you think about SSE vs. websocket?
+  question_source: discord
+  question_username: zhiyao_83689
+  question_timestamp: 2025-05-07T11:40:29.382-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715748872261682
+  tags: [sse, websocket, client-server]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q038
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    does audio turn detection from pipecat support languages like hindi (non-english languages)
+  question_source: discord
+  question_username: nirvana1285
+  question_timestamp: 2025-05-07T11:40:50.465-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715838706389042
+  tags: [pipecat, turn-detection, multilingual, hindi]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q039
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Q: Multiple LLMs mode - (1) 1 listening to sentence finishing / almost like turn detection and (2) other computing based on Query/RAG'ed context?
+  question_source: discord
+  question_username: webbedfoot
+  question_timestamp: 2025-05-07T11:41:53.326-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716091209449523
+  tags: [multiple-llms, turn-detection, rag]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q040
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Did 4o glazed issue affect voice agents
+  question_source: discord
+  question_username: anotherjesse
+  question_timestamp: 2025-05-07T11:43:00.674-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716362591010836
+  tags: [gpt-4o, glazed-issue, voice-agents]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q041
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    do you have a sample on how to insert "canned fillers" in pipecat?
+  question_source: discord
+  question_username: blisterbarnacles23
+  question_timestamp: 2025-05-07T11:43:08.732-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716396409884753
+  tags: [pipecat, canned-fillers, samples]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q042
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    What does prompting around voice models look like? I've used Retell so I'm only famimliar with prompting with the actual LLM
+  question_source: discord
+  question_username: harlowregular123_21060
+  question_timestamp: 2025-05-07T11:43:13.848-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716417588232223
+  tags: [prompting, voice-models, retell, llm]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q043
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    How about Gemma 3 vs Llama?
+  question_source: discord
+  question_username: biswasakti
+  question_timestamp: 2025-05-07T11:43:22.648-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716454099648582
+  tags: [gemma-3, llama, model-comparison]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q044
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Are folks using Google's Vertex API as opposed to AI Studio API? Pretty confused about the diff
+  question_source: discord
+  question_username: paulusesterhazy_12806
+  question_timestamp: 2025-05-07T11:44:03.441-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716624905015406
+  tags: [google-vertex-api, ai-studio-api, api-comparison]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q045
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Q: What about CLIENT memory?
+  question_source: discord
+  question_username: webbedfoot
+  question_timestamp: 2025-05-07T11:44:13.021-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716666168180806
+  tags: [client-memory, memory]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q046
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    did anyone try finetuning open-source LLM to make the generated text sound more conversational? or is good prompting sufficient to make the voice agent sound natural?
+  question_source: discord
+  question_username: danielgrittner_02502
+  question_timestamp: 2025-05-07T11:44:27.017-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716724487356446
+  tags: [finetuning, llm, conversational-ai, prompting]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q047
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Are we going for another 15 or 45min? Calendar says 45 but just checking
+  question_source: discord
+  question_username: dngrn.
+  question_timestamp: 2025-05-07T11:47:08.399-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369717380912250931
+  tags: [session-duration, schedule]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q048
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Hey, do you guys know good, open-source, voice agents evaluation platforms?
+  question_source: discord
+  question_username: s_nath
+  question_timestamp: 2025-05-07T11:49:00.268-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369717821772922951
+  tags: [open-source, voice-agents, evaluation-platforms]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q049
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    i know Vapi is a partner in this course and you're working on Pipecat. Is there a section in the course where we talk about the short- and long-term tradeoffs with some of these abstraction layers vs Pipecat / roll your own options?
+  question_source: discord
+  question_username: technotheory
+  question_timestamp: 2025-05-07T11:50:29.189-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369718187974856794
+  tags: [vapi, pipecat, course-content, tradeoffs]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q050
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    What are the latency expectations in a healthcare setup for say like a clinical notes voice agent solution? Is it 500ms, esp. because there are patients involved in the conversation as well
+  question_source: discord
+  question_username: paritosh0109
+  question_timestamp: 2025-05-07T11:50:32.261-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369718201165824050
+  tags: [latency, healthcare, clinical-notes, voice-agent]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q051
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    It was mentioned that speech to speech models are not as capable as text-mode LLMs. What are some of the limitations of speech to speech models? for example, are they worse at function calling?
+  question_source: discord
+  question_username: jojojo8970
+  question_timestamp: 2025-05-07T11:51:13.085-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369718370092781648
+  tags: [speech-to-speech, text-models, llm-limitations, function-calling]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q052
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Would love to know y'alls strategy RE: name/address recognition (NER or fine tuning / prompting)?
+  question_source: discord
+  question_username: curtitoo
+  question_timestamp: 2025-05-07T11:51:41.131-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369718489419354192
+  tags: [ner, address-recognition, fine-tuning, prompting]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q053
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    whats special about Asterik?
+  question_source: discord
+  question_username: moodi8310
+  question_timestamp: 2025-05-07T11:52:19.669-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369718650976534568
+  tags: [asterisk, telephony]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q054
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Are we going to get good info on tool calls and MCP and A2A within the course?  Two sided. - Some good direction on setting up RAG or MAG etc within the agents.
+  question_source: discord
+  question_username: wcombs
+  question_timestamp: 2025-05-07T11:52:51.561-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369718784520294440
+  tags: [tool-calls, mcp, a2a, rag, mag, course-content]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q055
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    is it possible to spin up pipecat bots that runs in google meet or zoom with good latency?
+  question_source: discord
+  question_username: francomor
+  question_timestamp: 2025-05-07T11:53:09.333-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369718858258255902
+  tags: [pipecat, google-meet, zoom, latency]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q056
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    what's your opinion on the Realtime API? in your experience, how does it compare to regular GPT4-o or Gemini 2.0
+  question_source: discord
+  question_username: pbaru
+  question_timestamp: 2025-05-07T11:53:51.455-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369719030334754846
+  tags: [realtime-api, gpt-4o, gemini-2.0, comparison]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q057
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Is Vapi build on pipecat or livekit or are they a competitor?
+  question_source: discord
+  question_username: aaayushman
+  question_timestamp: 2025-05-07T11:56:30.173-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369719699208343613
+  tags: [vapi, pipecat, livekit, comparison]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q058
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Follow up question on turn-detection. How to detect barge-in more precisly considering we are getting in-between transcription events?
+  question_source: discord
+  question_username: captain__nik
+  question_timestamp: 2025-05-07T11:57:27.745-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369719948500041738
+  tags: [turn-detection, barge-in, transcription]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q059
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    What's the difference bw Daily and Pipecat? I'm unclear how the two interact
+  question_source: discord
+  question_username: meeep0480
+  question_timestamp: 2025-05-07T11:57:43.496-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720015072661564
+  tags: [daily, pipecat, comparison]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q060
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Caching --- best way to cache multi turn conversation mainly for latency reduction?
+  question_source: discord
+  question_username: pups_1994
+  question_timestamp: 2025-05-07T11:58:43.694-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720267160883240
+  tags: [caching, multi-turn, latency]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q061
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Is there a model or service I can feed recordings of calls to get stats of the actual latency? e.g. not doing it manually
+  question_source: discord
+  question_username: mme7574
+  question_timestamp: 2025-05-07T11:59:03.943-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720351495356457
+  tags: [latency-stats, call-recordings, models, services]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q062
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    In what cases is using Livekit better than Pipecat?
+  question_source: discord
+  question_username: aaayushman
+  question_timestamp: 2025-05-07T11:59:33.176-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720474467303534
+  tags: [livekit, pipecat, comparison, use-cases]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q063
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    could you please elaborate? Did it not go well because it felt artificial or because it made it longer/other
+  question_source: discord
+  question_username: blisterbarnacles23
+  question_timestamp: 2025-05-07T11:59:38.703-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720498100834396
+  tags: [elaboration, conversational-ai, fillers]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q064
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    What about using openai realtime API. When are they worth exploring
+  question_source: discord
+  question_username: anotherjesse
+  question_timestamp: 2025-05-07T12:00:01.860-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720592798978160
+  tags: [openai-realtime-api, api-usage]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q065
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Is there a recorded link for the call?
+  question_source: discord
+  question_username: mabidi_eth
+  question_timestamp: 2025-05-07T12:03:02.944-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369721350158946344
+  tags: [recording-link, session-recording]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q066
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Do you guys remember the eval solutions from today's session? I noted coval.dev as one, but I recollect that there were at least two more!
+  question_source: discord
+  question_username: bay3s_
+  question_timestamp: 2025-05-07T12:07:52.900-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369722339690422272
+  tags: [eval-solutions, coval.dev, session-recap]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q067
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Is anyone building with elevenlabs? ... I'm sure there are specific use cases that require more custom solutions but does elevenlabs work for small businesses that just need an AI receptionist for example?
+  question_source: discord
+  question_username: seldomstatic
+  question_timestamp: 2025-05-07T12:08:21.234-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369722458262540409
+  tags: [elevenlabs, ai-receptionist, smb]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q068
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Anyone has an open comparison between Wav2vec2 vs Conformer vs whisper latency and accuracy benchmarking for live streaming scenarios?
+  question_source: discord
+  question_username: biswasakti
+  question_timestamp: 2025-05-07T12:10:04.033-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369722891124805642
+  tags: [wav2vec2, conformer, whisper, latency, accuracy, benchmark]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q069
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    And when we talk about open LLM @Kwindla Hultman Kramer (Daily) gave example of Llama 3.1 . Anyone tried with Gemma 3? Any comments?
+  question_source: discord
+  question_username: biswasakti
+  question_timestamp: 2025-05-07T12:11:09.845-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369723165907943435
+  tags: [open-llm, llama-3.1, gemma-3]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q070
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    hi; i had a conflict today. when can i expect to see the recording on Maven?
+  question_source: discord
+  question_username: uqarni1129
+  question_timestamp: 2025-05-07T12:15:17.929-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369724247018569748
+  tags: [recording, maven, session-availability]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q071
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Hey guys, I want to know if anyone has any experience using OpenAI agent SDK? Particularly the new tts and tranascribe models in case of latency and speech quality in comparison to the mentioned models in the course yesterday.
+  question_source: discord
+  question_username: mohgh314
+  question_timestamp: 2025-05-08T06:11:18.931-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369944403862491156
+  tags: [openai-agent-sdk, tts, transcribe, latency, speech-quality]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q072
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    If there are any other AU NZ folk here let me know if you want to make a study group
+  question_source: discord
+  question_username: agileben
+  question_timestamp: 2025-05-08T07:57:59.261-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369968791600566292
+  tags: [study-group, au-nz]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q073
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Is there a folder that'll have every recording?
+  question_source: discord
+  question_username: triples3289
+  question_timestamp: 2025-05-08T11:20:21.390-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1370029502902042634
+  tags: [recordings, session-materials]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q074
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    where's today slides
+  question_source: discord
+  question_username: ninjaa2377
+  question_timestamp: 2025-05-08T11:41:04.090-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1370034728845250601
+  tags: [slides, session-materials]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q075
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    and are we doing just one channel that's easier
+  question_source: discord
+  question_username: ninjaa2377
+  question_timestamp: 2025-05-08T11:41:40.368-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1370034878959263794
+  tags: [discord-channels, course-organization]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q076
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Regarding the advanced features of webrtc, where does the data transportation layer come in?
+  question_source: discord
+  question_username: tristanvandoorn
+  question_timestamp: 2025-05-08T11:50:54.192-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1370037140105728000
+  tags: [webrtc, data-transportation, advanced-features]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q077
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Do you use vertex AI? Or Google studio api
+  question_source: discord
+  question_username: biswasakti
+  question_timestamp: 2025-05-08T11:52:00.881-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1370037414517538876
+  tags: [vertex-ai, google-studio-api, api-choice]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q078
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    In my experience, using Twilio + Retell sometimes leads to loss of information. Is that typical for webrtc?
+  question_source: discord
+  question_username: tristanvandoorn
+  question_timestamp: 2025-05-08T11:52:33.883-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1370037550831304766
+  tags: [twilio, retell, webrtc, information-loss]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q079
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    Can you just go to the Maven student portal and get to the recording there?
+  question_source: discord
+  question_username: kwindla
+  question_timestamp: 2025-05-08T12:34:26.251-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1370048108383436863
+  tags: [maven, recording, student-portal]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S01Q080
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    have you tried VAPI or Retell? they seem great to build agents using their canvas to design the flow.
+  question_source: discord
+  question_username: ldenoue
+  question_timestamp: 2025-05-11T19:17:47.733-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1371265027612352593
+  tags: [vapi, retell, agent-building, canvas]
+  status: null
+  answer_text: null
+  answer_source: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
