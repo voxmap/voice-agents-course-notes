@@ -1,0 +1,50 @@
+- question_id: S00Q001
+  session_title: |-
+    Session Title from Maven
+  session_id: session-00
+  question_text: |-
+    Hi, should we introduce ourselves in this channel?
+  question_username: discord_user_zoom_user # or "First Name Last Name" if from platform with no usernames
+  question_timestamp: 1970-01-01T00:00:00.000Z # ISO 8601 timestamp or MM/DD/YYYY HH:MM AM/PM so it can be converted to ISO 8601 later)
+  question_link: https://discord.com/channels/1239284677165056021/1369476628035403816/1369476666639908988
+  tags: [housekeeping, introduction] # comma separated list of tags
+  status: completed # "pending" or "completed"
+  answer_text: |-
+    Yes, that would be great!
+  answer_username: kwindla
+  answer_timestamp: 1970-01-01T00:01:00.000Z
+  answer_link: https://discord.com/channels/1239284677165056021/1369476628035403816/1369476666639908988 # (null if answer was outside of Discord. Maybe from Zoom or the Class Transcript)
+
+- question_id: S01Q001
+  session_title: |-
+    Overview of the Voice AI Landscape
+  session_id: session-01-overview
+  question_text: |-
+    can we get access to this slides? or they are available over maven platform?
+  question_username: captain__nik
+  question_timestamp: 2025-05-07T16:18:00.000Z
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710089337962566
+  tags: [course-materials, slides]
+  status: pending
+  answer_text: null
+  answer_username: null
+  answer_timestamp: null
+  answer_link: null
+
+- question_id: S02Q001
+  session_title: |-
+    Deploying to production: hosting, infrastructure, telephony
+  session_id: session-02-deploying-to-production
+  question_text: |-
+    What abut voice cloning with different accents, would love to have a module comparing the different models for that
+  question_username: iggyal
+  question_timestamp: 2025-05-07T16:18:00.000Z
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710093196726364
+  tags: [voice-cloning, accents, model-comparison]
+  status: completed
+  answer_text: |-
+    Voice cloning is somethign you can do with the specific TTS providers. Then, those cloned voices can be used via that service provider in pipecat.
+    Training a voice model is not something you can do with pipecat.
+  answer_username: Mark at Daily
+  answer_timestamp: null
+  answer_link: null
