@@ -15,9 +15,17 @@ People:
 
 
 Products:
-  W&B Weave:
+  Vapi:
+    description: A developer platform for building and deploying voice AI agents that automate phone conversations. It enables both inbound and outbound calls with realistic voice agents that can access data, perform tasks, and integrate with existing systems.
+    misspellings: [vappy, vappe, vappi]
+    nicknames: [Vapi AI]
+    category: [Voice, AI Agents, Developer Tool]
+    vendor: Vapi
+    url: [https://vapi.ai/]
+
+  Weave:
     description: A comprehensive platform by Weights & Biases for LLMOps that provides observability, evaluation, and monitoring tools for AI applications. It enables tracking of LLM calls, debugging, prompt management, and performance optimization with minimal code integration.
-    misspellings: [wandb weave, WandB Weave]
+    misspellings: []
     nicknames: [Weave]
     category: [Observability, Developer Tool, MLOps]
     vendor: Weights & Biases
@@ -57,7 +65,7 @@ Products:
 
   Gemini 2.5 Pro:
     description: Google's advanced multimodal AI model released in May 2025 as part of the Gemini family. It's designed as a "thinking model" that can reason through complex problems step-by-step, with a massive 1 million token context window.
-    misspellings: [Gemini 2.5, Gemini 2.5pro]
+    misspellings: [Gemini 2.5]
     nicknames: [2.5 Pro, Gemini Pro]
     category: [Large Language Model, Multimodal Model]
     vendor: Google
@@ -87,6 +95,14 @@ Products:
     vendor: Pipecat
     url: [https://turn-training.pipecat.ai/]
 
+  Roark:
+    description: An observability and testing platform for voice AI, often described as "Datadog for Voice AI." Roark enables developers to monitor, evaluate, and simulate real customer calls for testing changes to voice agents before deploying them to production.
+    misspellings: [Rorck, Rork]
+    nicknames: []
+    category: [Voice, Observability, Developer Tool, Testing]
+    vendor: Roark Innovations
+    url: [https://roark.ai/]
+
 
 Frameworks:
   Pipecat:
@@ -97,6 +113,14 @@ Frameworks:
     vendor: Daily
     url: [https://www.pipecat.ai/]
 
+  Pipecat Flows:
+    description: A framework for building structured conversations in AI applications. It enables creating both predefined conversation paths (static flows) and dynamically generated flows (runtime nodes), handling state management and LLM interactions. Includes a Python module and visual editor for designing flow configurations.
+    misspellings: [Pipecap Flows, Pipekat Flows]
+    nicknames: [Flows]
+    category: [Voice, Framework, Conversation Design, State Management]
+    vendor: Daily
+    url: [https://docs.pipecat.ai/guides/features/pipecat-flows]
+
 
 Concepts:
   Voice Agents:
@@ -106,6 +130,14 @@ Concepts:
     examples: [Siri, Alexa, Google Assistant, ChatGPT Voice]
     synonyms: [Voice Assistants, Conversational Agents, Voice Bots]
     related: [ASR, TTS, LLMs, Conversational AI]
+
+  AI Engineer:
+    description: A professional role focused on applying and productizing AI technologies, particularly foundation models, into real-world applications. AI Engineers bridge the gap between research and product, taking AI advancements and shaping them into usable products without necessarily having deep ML expertise.
+    misspellings: []
+    categories: [AI, Software Engineering, Careers]
+    examples: [Prompt engineering specialists, LLM application developers, AI tool integrators]
+    synonyms: [AI Developer, Foundation Model Engineer, LLM Engineer]
+    related: [LLMs, Prompt Engineering, LangChain, Vector Databases, AI Applications]
 
   ASR:
     description: Automatic Speech Recognition converts spoken language into text. Think of it as the "ears" of voice systems, translating what you say into words a computer can understand. It's what lets your phone transcribe your voice messages or allows customer service bots to understand your requests.
@@ -122,3 +154,6 @@ Concepts:
     examples: [Call success rates, Error tracking, Response time monitoring, User satisfaction metrics]
     synonyms: [Monitoring, Telemetry, Performance Analysis]
     related: [Logging, Metrics, Tracing, Debugging]
+
+# Make sure the following list is in the glossary under people:
+# - Staff members in chat or on stage answering questions. Course teachers.
