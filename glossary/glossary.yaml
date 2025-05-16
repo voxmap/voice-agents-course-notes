@@ -13,6 +13,13 @@ People:
     usernames: [swyx]
     roles: [Editor of the Latent Space newsletter, Cohost of the Latent Space podcast, Founder of Smol AI]
 
+# Add staff members and instructors from the course
+  # In order of appearance would be nice but not required.
+  # Find staff by looking for mods in discord
+  # Instructors probably need to be paired with their companies as well. Sam Stowers and W&B for example.
+# Staff: Varun Daily, Chad Bailey, vipyne, mattieruthless, Mark Daily, aleix, Nina Kuruvilla
+# Instructors:  Mark Backman with Daily, Chad Bailey with Daily, Charles Frye with Modal, Erika Byun with Cartesia, Chongz with Cartesia, Michael Louis with Cerebrium, Hamel Husain, Ian Cairns with FreePlay, Sam Stowers with W&B, Brooke Hopkins with Coval, Morgan McGuire with W&B, Philip Kiely with Baseten, Elizabeth Trykin with Vapi
+# Companies: Daily, Modal, Cartesia, Cerebrium, FreePlay, W&B, Coval, Baseten
 
 Products:
   Vapi:
