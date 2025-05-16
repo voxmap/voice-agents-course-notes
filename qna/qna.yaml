@@ -9,12 +9,13 @@
   question_timestamp: 2025-05-07T11:01:29.209-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369705710182465646
   tags: [waiting-room, session-start]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    Yup, I'm in the waiting room
+  answer_source: discord
+  answer_username: alex_trata
+  answer_timestamp: 2025-05-07T11:02:02.562-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369705842930487406
 
 - question_id: S01Q002
   session_title: |-
@@ -45,12 +46,13 @@
   question_timestamp: 2025-05-07T11:05:25.258-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369706700243861587
   tags: [session-link, zoom-link]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    https://us06web.zoom.us/j/88488946089?pwd=vNgZFeLZNVRSp2rX3cF2tatsxBUNnl.1#success
+  answer_source: discord
+  answer_username: i_am_exception
+  answer_timestamp: 2025-05-07T11:05:29.093-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369706720384122892
 
 - question_id: S01Q004
   session_title: |-
@@ -63,12 +65,13 @@
   question_timestamp: 2025-05-07T11:17:07.096-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369709643965923328
   tags: [graphic, diagram, tool]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    canva
+  answer_source: discord
+  answer_username: harlowregular123_21060
+  answer_timestamp: 2025-05-07T11:17:21.942-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369709703111643167
 
 - question_id: S01Q005
   session_title: |-
@@ -99,12 +102,13 @@
   question_timestamp: 2025-05-07T11:18:02.877-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710069557952573
   tags: [latency, twilio, webrtc]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    yep, it's possible with either one
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T11:19:04.699-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710316169859132
 
 - question_id: S01Q007
   session_title: |-
@@ -117,12 +121,13 @@
   question_timestamp: 2025-05-07T11:18:09.135-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710089337962566
   tags: [slides, course-materials, maven]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    https://voiceaiandvoiceagents.com/ for anyone looking for the primer link. Its on Maven as well.
+  answer_source: discord
+  answer_username: i_am_exception
+  answer_timestamp: 2025-05-07T11:07:16.240-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369707054981840907
 
 - question_id: S01Q008
   session_title: |-
@@ -153,12 +158,13 @@
   question_timestamp: 2025-05-07T11:19:01.970-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710304842158101
   tags: [voicebot, integration, asterisk]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    look at phone-chatbot and phone-chatbot-daily-twilio-sip in https://github.com/pipecat-ai/pipecat/tree/main/examples
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T11:39:03.143-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715380594085968
 
 - question_id: S01Q010
   session_title: |-
@@ -189,12 +195,13 @@
   question_timestamp: 2025-05-07T11:20:01.964-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710558197452941
   tags: [latency, user-behavior, metrics]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    One thing we see _a lot_ in the general WebRTC world is if latency gets much above 1 second, you get lots of cases of people talking over (and interrupting) the bot because they're not sure the bot heard them, etc
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T11:21:33.057-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710939329609838
 
 - question_id: S01Q012
   session_title: |-
@@ -225,12 +232,13 @@
   question_timestamp: 2025-05-07T11:21:02.534-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710815315820604
   tags: [gpt-4.1, gpt-4o, voice-models]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    I use 4o-mini mostly or gemini flash
+  answer_source: discord
+  answer_username: dngrn.
+  answer_timestamp: 2025-05-07T11:21:40.066-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369710976904663140
 
 - question_id: S01Q014
   session_title: |-
@@ -261,12 +269,13 @@
   question_timestamp: 2025-05-07T11:24:22.767-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369711658105049139
   tags: [gpt-4.1-nano, cost, voice-models]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    nano wasn't smart enough in my tests
+  answer_source: discord
+  answer_username: .droyster
+  answer_timestamp: 2025-05-07T11:25:00.124-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369711799374188574
 
 - question_id: S01Q016
   session_title: |-
@@ -276,15 +285,19 @@
     What's the eli5 explanation of pipecat vs livekit
   question_source: discord
   question_username: harlowregular123_21060
-  question_timestamp: 2025-05-07T11:27:56.159-05:00
-  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369712594244866129
+  question_timestamp: 2025-05-07T11:27:59.999-05:00
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369712382439456914
   tags: [pipecat, livekit, comparison]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    A few things.
+    - Pipecat is fully vendor neutral. It's not tightly coupled to any infrastructure. (If you build with LiveKit, you deploy to LiveKit.)
+    - Pipecat is a fully programmable pipeline.
+    Kwin can add more context, too!
+  answer_source: discord
+  answer_username: dailynk
+  answer_timestamp: 2025-05-07T11:30:02.372-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369712895708889118
 
 - question_id: S01Q017
   session_title: |-
@@ -297,12 +310,13 @@
   question_timestamp: 2025-05-07T11:30:06.116-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369713127470809189
   tags: [groq, cloud-logic, latency]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    of course! 😁  what do you mean exactly by run logic? i'm not sure how long ago you tried, but to combat this, we're building up data centers globally to reduce network latency as well. we will keep optimizing what we can to make the entire pipeline faster.
+  answer_source: discord
+  answer_username: hogroq
+  answer_timestamp: 2025-05-07T11:35:06.906-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714406576558130
 
 - question_id: S01Q018
   session_title: |-
@@ -315,12 +329,13 @@
   question_timestamp: 2025-05-07T11:30:40.741-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369713274114949140
   tags: [turn-detection, livekit]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    livekit has a turn detection model, but it only works with their agents... the one kwindla is talking about right now works with pipecat but it's open source so you can use it with whatever
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T11:31:29.143-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369713847111127140
 
 - question_id: S01Q019
   session_title: |-
@@ -331,7 +346,7 @@
   question_source: discord
   question_username: bear0673
   question_timestamp: 2025-05-07T11:33:25.089-05:00
-  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369713976438231060
+  question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369713800470855825
   tags: [parallel-pipelines, video, multiple-llms]
   status: null
   answer_text: null
@@ -477,12 +492,13 @@
   question_timestamp: 2025-05-07T11:36:09.208-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714667868061736
   tags: [roark.ai, voice-evals, tools]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    I noted https://roark.ai/ as another one
+  answer_source: discord
+  answer_username: mme7574
+  answer_timestamp: 2025-05-07T14:56:19.669-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369789294883381298
 
 - question_id: S01Q028
   session_title: |-
@@ -513,12 +529,13 @@
   question_timestamp: 2025-05-07T11:37:16.975-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369714946947944509
   tags: [concurrency, external-services, stt-tts, streaming]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    Short answer: yes. 🙂 this is a good question, and something I think will probably come up later in the course.
+  answer_source: discord
+  answer_username: fishbulb59 
+  answer_timestamp: 2025-05-07T11:40:29.405-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715749832986736
 
 - question_id: S01Q030
   session_title: |-
@@ -549,12 +566,13 @@
   question_timestamp: 2025-05-07T11:38:14.241-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715182904348764
   tags: [deepgram, live-streaming, vad]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    We were using Deepgram speech detection but it produced a lot of false positives. While we implement a better solution, we are using Deepgram text output as voice detection 🫣
+  answer_source: discord
+  answer_username: matias.battocchia
+  answer_timestamp: 2025-05-07T11:41:17.044-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715935427596318
 
 - question_id: S01Q032
   session_title: |-
@@ -585,12 +603,13 @@
   question_timestamp: 2025-05-07T11:38:36.811-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715279454736404
   tags: [pipecat, sip-integration, ivr]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    look at phone-chatbot and phone-chatbot-daily-twilio-sip in https://github.com/pipecat-ai/pipecat/tree/main/examples
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T11:39:03.143-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715380594085968
 
 - question_id: S01Q034
   session_title: |-
@@ -603,12 +622,14 @@
   question_timestamp: 2025-05-07T11:38:43.939-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715309195169832
   tags: [pipecat, turn-detection, release]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    Have you checked out the Smart Turn open source model (native audio)
+    https://fal.ai/models/fal-ai/smart-turn
+  answer_source: discord
+  answer_username: dailynk
+  answer_timestamp: 2025-05-07T11:39:34.708-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715513496473670
 
 - question_id: S01Q035
   session_title: |-
@@ -621,12 +642,13 @@
   question_timestamp: 2025-05-07T11:39:42.708-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369715554152681533
   tags: [accents, vr, models, pluggable-accents]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    a tip for gemini, if you want accents, is to specify the country(language) in your params. It will actually change (uk, aus, eng, usa ect.)
+  answer_source: discord
+  answer_username: bear0673
+  answer_timestamp: 2025-05-07T11:52:08.326-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369718724453642250
 
 - question_id: S01Q036
   session_title: |-
@@ -729,12 +751,13 @@
   question_timestamp: 2025-05-07T11:43:08.732-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716396409884753
   tags: [pipecat, canned-fillers, samples]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    I'll see if I can find something, but TLDR: There's a `tts.say()` function that lets you 'hard code' responses pretty easily
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T11:44:03.471-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716624975974471
 
 - question_id: S01Q042
   session_title: |-
@@ -783,12 +806,13 @@
   question_timestamp: 2025-05-07T11:44:03.441-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716624905015406
   tags: [google-vertex-api, ai-studio-api, api-comparison]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    AI studio is more for experimentation and vertex is for production. You can provision dedicated throughput on vertex.
+  answer_source: discord
+  answer_username: i_am_exception
+  answer_timestamp: 2025-05-07T11:45:36.562-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369717013109551144
 
 - question_id: S01Q045
   session_title: |-
@@ -819,12 +843,13 @@
   question_timestamp: 2025-05-07T11:44:27.017-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369716724487356446
   tags: [finetuning, llm, conversational-ai, prompting]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    Like asking the agents to use expressions? Like 'mmm', 'ahh', etc.? Yes, we did, and it didn't go well.
+  answer_source: discord
+  answer_username: alfredodominguez_
+  answer_timestamp: 2025-05-07T11:46:27.975-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369717224553480304
 
 - question_id: S01Q047
   session_title: |-
@@ -999,12 +1024,13 @@
   question_timestamp: 2025-05-07T11:53:51.455-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369719030334754846
   tags: [realtime-api, gpt-4o, gemini-2.0, comparison]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    Realtime is key imo. Have had positive results w RT API
+  answer_source: discord
+  answer_username: meeep0480
+  answer_timestamp: 2025-05-07T11:55:43.145-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369719581478244373
 
 - question_id: S01Q057
   session_title: |-
@@ -1017,12 +1043,13 @@
   question_timestamp: 2025-05-07T11:56:30.173-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369719699208343613
   tags: [vapi, pipecat, livekit, comparison]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    vapi is built on a precursor to pipecat of sorts... Daily was working with that team while we were building pipecat
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T11:57:27.745-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369719947711336568
 
 - question_id: S01Q058
   session_title: |-
@@ -1035,12 +1062,13 @@
   question_timestamp: 2025-05-07T11:57:27.745-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369719948500041738
   tags: [turn-detection, barge-in, transcription]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    this is still a hard problem. 🙂 the pipecat team is still trying to balance input signals from turn detection, VAD, and transcripts to figure out when it "should" interrupt
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T11:58:09.333-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369720127472582756
 
 - question_id: S01Q059
   session_title: |-
@@ -1053,8 +1081,11 @@
   question_timestamp: 2025-05-07T11:57:43.496-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720015072661564
   tags: [daily, pipecat, comparison]
-  status: null
-  answer_text: null
+  status: completed
+  answer_text: |-
+    Pipecat is an open-source framework for building AI pipelines, primarily focused on voice.
+    Daily is the company behind Pipecat. Our primary business is providing realtime voice and video communication. Our APIS are built on top of WebRTC.
+    These overlap in that, to connect a client to a Pipecat pipeline, the voice/video must communicate over some connection, websockets or WebRTC. Pipecat allows you to chose that connection, but our preferred way is using a Daily connection, or in PIpecat terms, a DailyTransport.
   answer_source: null
   answer_username: null
   answer_timestamp: null
@@ -1071,12 +1102,13 @@
   question_timestamp: 2025-05-07T11:58:43.694-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720267160883240
   tags: [caching, multi-turn, latency]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    I think there's a pipecat example of this somewhere, esp for a v2v model where the context gets full of audio data pretty quick. you can replace the audio context with the text transcript, or even run the transcript through a separate LLM with a prompt to summarize it
+  answer_source: discord
+  answer_username: fishbulb59
+  answer_timestamp: 2025-05-07T12:04:44.983-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369721669358211122
 
 - question_id: S01Q061
   session_title: |-
@@ -1089,12 +1121,13 @@
   question_timestamp: 2025-05-07T11:59:03.943-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720351495356457
   tags: [latency-stats, call-recordings, models, services]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    Not aware of any out-of-the-box solution. Way I've automated this process before is to transcribe the call recording and measure the difference between the timestamp for the end of the last utterance of one speaker and the first utterance of the next speaker.
+  answer_source: discord
+  answer_username: luipe.dev
+  answer_timestamp: 2025-05-07T12:02:57.563-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369721143042613369
 
 - question_id: S01Q062
   session_title: |-
@@ -1107,12 +1140,13 @@
   question_timestamp: 2025-05-07T11:59:33.176-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720474467303534
   tags: [livekit, pipecat, comparison, use-cases]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    Pipecat is fully vendor neutral. It's not tightly coupled to any infrastructure. (If you build with LiveKit, you deploy to LiveKit.) Pipecat is a fully programmable pipeline.
+  answer_source: discord
+  answer_username: dailynk
+  answer_timestamp: 2025-05-07T11:30:02.372-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369712895708889118
 
 - question_id: S01Q063
   session_title: |-
@@ -1125,12 +1159,13 @@
   question_timestamp: 2025-05-07T11:59:38.703-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720498100834396
   tags: [elaboration, conversational-ai, fillers]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    It sounded very artificial and it made it harder to follow and the agent didn't work as well. Much better to use appropriate pauses and speech timing. We use a mix of LLM prompt optimization, prompt engineering, and in some cases a little creative editing to get more natural sounding reactions.
+  answer_source: discord
+  answer_username: alfredodominguez_
+  answer_timestamp: 2025-05-07T12:01:42.064-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369720857142407219
 
 - question_id: S01Q064
   session_title: |-
@@ -1179,12 +1214,13 @@
   question_timestamp: 2025-05-07T12:07:52.900-05:00
   question_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369722339690422272
   tags: [eval-solutions, coval.dev, session-recap]
-  status: null
-  answer_text: null
-  answer_source: null
-  answer_username: null
-  answer_timestamp: null
-  answer_link: null
+  status: completed
+  answer_text: |-
+    That's for observability but they were. coval, freeplay and weave.
+  answer_source: discord
+  answer_username: i_am_exception
+  answer_timestamp: 2025-05-07T12:12:05.959-05:00
+  answer_link: https://discord.com/channels/1239284677165056021/1369477062397788241/1369723480399941712
 
 - question_id: S01Q067
   session_title: |-
