@@ -17,9 +17,9 @@ People:
   # In order of appearance would be nice but not required.
   # Find staff by looking for mods in discord
   # Instructors probably need to be paired with their companies as well. Sam Stowers and W&B for example.
-# Staff: Varun Daily, Chad Bailey, vipyne, mattieruthless, Mark Daily, aleix, Nina Kuruvilla
-# Instructors:  Mark Backman with Daily, Chad Bailey with Daily, Charles Frye with Modal, Erika Byun with Cartesia, Chongz with Cartesia, Michael Louis with Cerebrium, Hamel Husain, Ian Cairns with FreePlay, Sam Stowers with W&B, Brooke Hopkins with Coval, Morgan McGuire with W&B, Philip Kiely with Baseten, Elizabeth Trykin with Vapi
-# Companies: Daily, Modal, Cartesia, Cerebrium, FreePlay, W&B, Coval, Baseten
+# Staff: Mark Backman, Chad Bailey, Nina Kuruvilla, mattieruthless, aleix, Varun Daily, vipyne
+# Instructors:  Mark Backman with Daily, Charles Frye with Modal, Erika Byun with Cartesia, Chongz with Cartesia, Michael Louis with Cerebrium, Hamel Husain, Ian Cairns with FreePlay, Sam Stowers with W&B, Brooke Hopkins with Coval, Morgan McGuire with W&B, Philip Kiely with Baseten, Elizabeth Trykin with Vapi, Kyle Corbitt with OpenPipe, x with Layercode, Ray Thai with Fireworks
+# Companies: Daily, Modal, Cartesia, Cerebrium, FreePlay, W&B, Coval, Baseten, Vapi, OpenPipe, Layercode, Fireworks
 
 Products:
   Vapi:
@@ -161,6 +161,3 @@ Concepts:
     examples: [Call success rates, Error tracking, Response time monitoring, User satisfaction metrics]
     synonyms: [Monitoring, Telemetry, Performance Analysis]
     related: [Logging, Metrics, Tracing, Debugging]
-
-# Make sure the following list is in the glossary under people:
-# - Staff members in chat or on stage answering questions. Course teachers.
