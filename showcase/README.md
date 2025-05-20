@@ -35,9 +35,21 @@ A collection of projects and resources related to voice agents from community me
 - Link: https://www.youtube.com/watch?v=7ZLQjJvLLyY
 
 
+## Voice 101 AI: Voice AI Intro for Engineers
+
+<img src="./media/voice-101-ai-thumbnail.png" alt="Voice 101 AI" height="128px" />
+
+- Description: An interactive platform that teaches engineers the essentials of voice AI through hands-on tutorials and real-world examples.
+- Username: sunnypatneedi_17327
+- Date: 2025-05-15 15:22
+- Location: [in Discord](https://discord.com/channels/1239284677165056021/1260602628803395645/1372670441084289096)
+- Link: https://voice101.ai/
+
+
 ## Session Recaps
 
 Links:
 - https://mitjamartini.com/posts/overview-of-voice-ai-landscape/
 - https://mitjamartini.com/posts/deploying-voice-agents-to-production/
 - https://anfalmushtaq.com/articles/voice-agents-week1-tldr
+- https://anfalmushtaq.com/articles/voice-agents-week2-tldr
