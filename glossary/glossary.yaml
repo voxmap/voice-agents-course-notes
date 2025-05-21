@@ -15,11 +15,58 @@ People:
 
 # Add staff members and instructors from the course
   # In order of appearance would be nice but not required.
-  # Find staff by looking for mods in discord
   # Instructors probably need to be paired with their companies as well. Sam Stowers and W&B for example.
-# Staff: Mark Backman, Chad Bailey, Nina Kuruvilla, mattieruthless, aleix, Varun Daily, vipyne
 # Instructors:  Mark Backman with Daily, Charles Frye with Modal, Erika Byun with Cartesia, Chongz with Cartesia, Michael Louis with Cerebrium, Hamel Husain, Ian Cairns with FreePlay, Sam Stowers with W&B, Brooke Hopkins with Coval, Morgan McGuire with W&B, Philip Kiely with Baseten, Elizabeth Trykin with Vapi, Kyle Corbitt with OpenPipe, x with Layercode, Ray Thai with Fireworks
 # Companies: Daily, Modal, Cartesia, Cerebrium, FreePlay, W&B, Coval, Baseten, Vapi, OpenPipe, Layercode, Fireworks
+
+  Mark Backman:
+    description: Mark is an innovative and experienced software product leader currently serving as Vice President of Product at Daily. He has a strong background in product management and engineering with previous roles at Oblong Industries, Boeing Satellite Systems, and Raytheon.
+    misspellings: [Mark Beckman]
+    nicknames: []
+    usernames: [markatdaily_34523, MarkAtDaily]
+    roles: [VP of Product at Daily, Speaker, Moderator, Maintainer of Pipecat]
+
+  Chad Bailey:
+    description: Chad is a former rocket scientist and current solutions engineer at Daily, specializing in real-time voice and video communication technologies. Chad helps developers implement advanced voice AI solutions and writes about AI-powered live translation and real-time content moderation for video calls.
+    misspellings: []
+    nicknames: []
+    usernames: [chadbailey59, Chad@Daily, fishbulb59]
+    roles: [Solutions Engineer at Daily, Writer]
+
+  Nina Kuruvilla:
+    description: Nina has led Daily since its founding in 2016, helping to build a platform that powers applications at scale for customer service, virtual assistants, copilots, and more. She is recognized for her leadership in the voice AI community, supporting developers and advocating for flexible, scalable technology solutions.
+    misspellings: []
+    nicknames: []
+    usernames: [ninacali4, dailynk, nina-kuruvilla]
+    roles: [Cofounder of Daily, Technology Executive, Voice AI Innovator]
+
+  Mattie Ruth:
+    description: Mattie is a product engineer focused on call quality and performance. She is recognized for her expertise in developing robust, cross-platform WebRTC APIs and for leading projects that improve the consistency and reliability of Daily's communication infrastructure.
+    misspellings: [Matty, Maddie]
+    nicknames: []
+    usernames: [mattieruth, mattieruthless]
+    roles: [Senior Product Engineer at Daily, API Developer, Call Quality Analyst]
+
+  Aleix Conchillo Flaqué:
+    description: Aleix is an engineer specializing in real-time voice, video, and AI platforms. Leads development of AI toolkits and infrastructure, and is a core maintainer for open-source projects like Pipecat and RTVI, which enable voice and multimodal conversational AI.
+    misspellings: [alaish, alesh]
+    nicknames: [Aleix]
+    usernames: [aconchillo]
+    roles: [Engineering at Daily, Open Source Maintainer, AI Infrastructure Developer]
+
+  Varun Singh:
+    description: Dr. Varun Singh leads Daily's product development, technology strategy, and executive support for Growth, Engineering, and Sales teams. He has co-authored multiple IETF and W3C specifications, holds several patents, and is a sought-after speaker at technology and entrepreneurship events.
+    misspellings: [Varoon]
+    nicknames: []
+    usernames: [vr000m, _vr000m]
+    roles: [Chief Product and Technology Officer at Daily, Founder, Researcher, Standards Contributor, Speaker, Advisor]
+
+  Vanessa Pyne:
+    description: Vanessa is a Senior Software Engineer at Daily, specializing in real-time video/audio tech. With a background in software and video post-production, she's known for her creative and collaborative approach. Vanessa has contributed to open-source, AI, and media application testing, and holds a BFA from RISD.
+    misspellings: [Vanessa Pine]
+    nicknames: []
+    usernames: [vipyne, vanessapyne]
+    roles: [Senior Software Engineer at Daily, Open-source contributor, Speaker, Multimedia engineer]
 
 Products:
   Vapi:
