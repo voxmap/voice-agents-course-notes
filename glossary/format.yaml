@@ -3,7 +3,7 @@ People:  # Template for a person
     description: A detailed description of the person and their contributions
     misspellings: []  # Common misspellings of their name
     nicknames: []  # Alternative names they are known by
-    usernames: []  # Social media handles (Twitter/X, GitHub, etc.)
+    usernames: []  # Social media handles (Twitter/X, GitHub, Facebook, LinkedIn, etc.)
     roles: []  # Roles or contributions they are known for
 
 Products:  # Template for a product, software, or platform
