@@ -15,6 +15,13 @@ Products:  # Template for a product, software, or platform
     vendor: ""  # Company or individual that created/maintains it
     url: []  # Links to related web pages
 
+Companies: # Template for a company
+  Company:
+    description: A detailed description of the company
+    misspellings: []  # Common misspellings of the company name
+    nicknames: []  # Alternative names it is known by
+    url: [] # Links to related web pages (e.g. social media, news articles)
+
 Projects:  # Template for a project
   Project:
     description: A detailed description of the project
