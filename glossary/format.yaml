@@ -1,7 +1,7 @@
 People:  # Template for a person
   Person:
     description: A detailed description of the person and their contributions
-    misspellings: []  # Common misspellings of their name
+    misspellings: []  # Common misspellings of their name by ASR models
     nicknames: []  # Alternative names they are known by
     usernames: []  # Social media handles (Twitter/X, GitHub, Facebook, LinkedIn, etc.)
     roles: []  # Roles or contributions they are known for
@@ -9,7 +9,7 @@ People:  # Template for a person
 Products:  # Template for a product, software, or platform
   Product:
     description: "A detailed description of the product, software, or platform"
-    misspellings: []  # Common misspellings of the product name
+    misspellings: []  # Common misspellings of the product name by ASR models
     nicknames: []  # Alternative names it is known by
     category: []  # IDE, Database, Library, SaaS, etc.
     vendor: ""  # Company or individual that created/maintains it
@@ -18,14 +18,14 @@ Products:  # Template for a product, software, or platform
 Companies: # Template for a company
   Company:
     description: A detailed description of the company
-    misspellings: []  # Common misspellings of the company name
+    misspellings: []  # Common misspellings of the company name by ASR models
     nicknames: []  # Alternative names it is known by
-    url: [] # Links to related web pages (e.g. social media, news articles)
+    url: [] # Links to related web pages (e.g. official website, social media, news articles)
 
 Projects:  # Template for a project
   Project:
     description: A detailed description of the project
-    misspellings: []  # Common misspellings of the project name
+    misspellings: []  # Common misspellings of the project name by ASR models
     nicknames: []  # Alternative names it is known by
     maintainers: []  # Key people or teams maintaining it
     url: [] # Links to the project website, documentation
@@ -33,7 +33,7 @@ Projects:  # Template for a project
 Frameworks:  # Template for a technology, framework, or standard
   Framework:
     description: A detailed description of the framework or standard
-    misspellings: []  # Common misspellings of the framework name
+    misspellings: []  # Common misspellings of the framework name by ASR models
     nicknames: []  # Alternative names it is known by
     use_cases: []  # Common applications or problems it solves
     url: []  # Links to documentation, specs, or websites
