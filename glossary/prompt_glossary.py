@@ -8,13 +8,13 @@ def generate_prompt():
     entries = []
     # Process each top-level category
     for category, items in glossary.items():
-        for item_name, item_data in items.items():
-            # For People, use their nicknames
-            if category == "People" and "nicknames" in item_data:
-                entries.extend(item_data["nicknames"])
-            # For all other categories, use the item name
-            else:
-                entries.append(item_name)
+        if category == "People":
+            # For people, add nicknames if available, otherwise use full name
+            entries.extend(sum([[*item_data.get("nicknames", [])] or [item_name] 
+                           for item_name, item_data in items.items()], []))
+        else:
+            # For all other categories, just add item names
+            entries.extend(item_name for item_name in items)
 
     # Join all entries with commas
     prompt = ", ".join(entries)
