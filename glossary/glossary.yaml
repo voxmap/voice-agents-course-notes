@@ -201,22 +201,6 @@ Products:
     vendor: OpenAI
     url: [https://openai.com/research/whisper]
 
-  Word Wrangler:
-    description: An application, possibly a demo or tool related to Pipecat.
-    misspellings: []
-    nicknames: []
-    category: [Application, Demo]
-    vendor: Pipecat
-    url: [https://word-wrangler.vercel.app/]
-
-  Turn Training:
-    description: An application or tool associated with Pipecat, possibly for training or demonstrating turn-taking.
-    misspellings: []
-    nicknames: []
-    category: [Application, Demo, Training Tool]
-    vendor: Pipecat
-    url: [https://turn-training.pipecat.ai/]
-
   Roark:
     description: An observability and testing platform for voice AI, often described as "Datadog for Voice AI." Roark enables developers to monitor, evaluate, and simulate real customer calls for testing changes to voice agents before deploying them to production.
     misspellings: [Rorck, Rork]
