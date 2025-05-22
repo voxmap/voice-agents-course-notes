@@ -70,75 +70,75 @@ People:
 
 Companies:
   Daily:
-    description: Daily is a developer-focused platform providing real-time voice, video, and AI solutions at global scale. Their WebRTC-native infrastructure enables ultra-low latency, high-quality conversations, and supports the creation of conversational AI agents and multimodal experiences. Daily also maintains Pipecat, an open-source framework for orchestration of voice and multimodal AI, and offers enterprise-grade security, compliance, and global reach with media servers in over 75 points of presence. Daily is widely used in telehealth, live commerce, education, events, virtual collaboration, and social and gaming applications.
+    description: Daily is a developer platform for real-time voice, video, and AI solutions using WebRTC infrastructure. Offers low-latency conversations, conversational AI agents, and maintains the open-source Pipecat framework. Used in telehealth, education, virtual collaboration, and social applications.
     misspellings: [Dayly, Dailly, Daly]
     nicknames: [Daily.co, Daily Bots, Pipecat (for its open-source framework)]
     url: [https://www.daily.co, https://www.dailybots.ai/features/, https://www.linkedin.com/company/dailyco]
 
   Modal:
-    description: Modal provides high-performance, scalable computing infrastructure for AI, machine learning, and data applications. Their platform enables developers to easily deploy and scale applications from zero to thousands of CPUs or GPUs with minimal code, focusing on a seamless developer experience. Modal is used for generative AI inference, LLM fine-tuning, computational biotech, and media processing. The company is based in New York, Stockholm, and San Francisco, and was founded by creators of popular open-source projects. Modal offers usage-based pricing and has raised over $23 million from top investors.
+    description: Modal provides scalable computing infrastructure for AI and ML applications. Their platform enables developers to deploy and scale from zero to thousands of CPUs/GPUs with minimal code. Used for generative AI inference, LLM fine-tuning, biotech, and media processing. Based in New York, Stockholm, and San Francisco.
     misspellings: [Modle]
     nicknames: [Modal Labs]
     url: [https://modal.com, https://github.com/modal-labs, https://x.com/modal_labs, https://www.linkedin.com/company/modal-labs/]
 
   Cartesia:
-    description: Cartesia is an emerging AI company focused on advanced voice and speech technology, including synthetic speech generation and recognition. The company aims to provide tools and APIs that enable developers to integrate natural, lifelike AI voices into applications and services. Cartesia may be active in research, open-source projects, or enterprise solutions, but is not yet widely recognized as a major industry player.
+    description: Cartesia is an emerging AI company focused on advanced voice and speech technology. Provides tools and APIs for developers to integrate natural, lifelike AI voices into applications. Works in synthetic speech generation and recognition.
     misspellings: [Carthesia, Cartezia]
-    nicknames: [Cartesia AI, Cartesia Voice]
+    nicknames: [Cartesia, Cartesia Voice]
     url: [https://cartesia.ai/, https://github.com/cartesia-ai, https://twitter.com/cartesia_ai]
 
   Cerebrium:
-    description: Cerebrium is a cloud-based AI deployment platform that enables developers to easily deploy, scale, and manage machine learning models in production environments. The platform supports a wide range of AI applications, including computer vision, natural language processing, and audio processing, which may include AI voice and speech technologies. Cerebrium is designed for simplicity and scalability, allowing users to focus on building AI solutions without worrying about infrastructure. While not exclusively an AI voice company, Cerebrium can be used to deploy and serve state-of-the-art voice models as part of broader AI workflows.
-    misspellings: [Cerebrum, Cereberium, Cerberium]
+    description: Cerebrium is a cloud-based AI deployment platform for managing machine learning models in production. Supports various AI applications including computer vision, NLP, and audio processing. Designed for simplicity and scalability, allowing developers to focus on building solutions without infrastructure concerns. Can deploy voice models as part of broader AI workflows.
+    misspellings: [Cerebrum]
     nicknames: [Cerebrium AI, Cerebrium Cloud]
     url: [https://www.cerebrium.ai, https://docs.cerebrium.ai/]
 
   FreePlay:
-    description: FreePlay is an end-to-end platform designed to help software teams build, test, evaluate, monitor, and optimize AI products—especially those powered by large language models (LLMs). The platform supports experimentation with prompts and models, automated testing and evaluations, observability for AI systems in production, and collaborative features for teams. It integrates with major model providers like OpenAI, Anthropic, Google Vertex, and AWS Bedrock, and is suitable for developers, product managers, and technical leadership looking to streamline AI product development and monitoring.
-    misspellings: [Free Play, FreePlay.ai, Freeplay AI]
-    nicknames: [Freeplay, Freeplay.ai]
+    description: FreePlay is an end-to-end platform for building, testing, evaluating, and monitoring AI products, especially LLM-powered applications. Supports prompt experimentation, automated testing, production observability, and team collaboration. Integrates with major providers like OpenAI, Anthropic, Google, and AWS.
+    misspellings: [Free Play]
+    nicknames: [Freeplay AI]
     url: [https://www.freeplay.ai, https://x.com/freeplay_ai, https://techcrunch.com/2023/11/01/freeplay-wants-to-help-companies-test-and-build-llm-powered-apps/]
 
   Weights & Biases:
-    description: Weights & Biases is a machine learning (ML) and artificial intelligence (AI) platform that enables researchers and developers to track experiments, visualize results, collaborate with team members, and manage production model workflows. The platform supports experiment tracking, model versioning, hyperparameter tuning, and data lineage, making it popular in both academic and industrial AI/ML projects. Weights & Biases helps teams streamline the development, debugging, and deployment of machine learning models.
-    misspellings: [Weight and Biases, Weights and Bias, WandB, W&B]
+    description: Weights & Biases is a machine learning platform for tracking experiments, visualizing results, and managing ML workflows. Supports experiment tracking, model versioning, hyperparameter tuning, and data lineage. Popular in both academic and industrial AI projects for streamlining development, debugging, and deployment.
+    misspellings: [Weight and Biases, Weights and Bias]
     nicknames: [W&B, wandb]
     url: [https://wandb.ai, https://twitter.com/weights_biases, https://wandb.ai/site]
 
   Coval:
-    description: Coval is a simulation and evaluation platform for AI voice and chat agents, designed to help engineers and developers test, monitor, and optimize autonomous conversational agents at scale. The platform enables users to simulate thousands of scenarios, generate diverse test cases, and evaluate agent performance using customizable metrics such as latency, accuracy, tool-call effectiveness, and instruction compliance. Coval's approach is inspired by proven testing methodologies from the self-driving car industry, particularly leveraging founder Brooke Hopkins' experience at Waymo. It provides real-time monitoring, regression tracking, and seamless CI/CD integration, supporting both voice and chat AI agents for enterprise applications.
+    description: Coval is a simulation and evaluation platform for AI voice and chat agents. Helps developers test, monitor, and optimize conversational agents at scale through diverse test scenarios and customizable metrics like latency, accuracy, and instruction compliance. Approach inspired by self-driving car testing methodologies. Offers real-time monitoring, regression tracking, and CI/CD integration for enterprise applications.
     misspellings: [Koval, Covald, Cobal]
     nicknames: []
     url: [https://www.coval.dev, https://www.ycombinator.com/companies/coval, https://techcrunch.com/2025/01/23/coval-evaluates-ai-voice-and-chat-agents-like-self-driving-cars/]
 
   Baseten:
-    description: Baseten is a serverless backend platform for deploying, serving, and scaling AI and machine learning models in production. It enables developers and data scientists to package, deploy, and manage custom or pre-trained models without the need to handle infrastructure, scaling, or performance optimization. Baseten supports major ML frameworks (e.g., PyTorch, TensorFlow, Hugging Face), offers high-performance inference with autoscaling, and provides tools for model management, observability, and workflow orchestration. The platform is designed for fast, scalable, and cost-efficient model deployment, making it suitable for both prototyping and enterprise-grade AI applications.
+    description: Baseten is a serverless backend platform for deploying and scaling AI/ML models in production. Enables developers to manage custom or pre-trained models without handling infrastructure concerns. Supports major ML frameworks (PyTorch, TensorFlow, Hugging Face), offers autoscaling inference, and provides tools for model management and workflow orchestration. Suitable for both prototyping and enterprise applications.
     misspellings: [Bass Ten]
     nicknames: []
     url: [https://www.baseten.co, https://docs.baseten.co, https://www.linkedin.com/company/baseten]
 
   Vapi:
-    description: A developer platform for building and deploying voice AI agents that automate phone conversations. It enables both inbound and outbound calls with realistic voice agents that can access data, perform tasks, and integrate with existing systems.
-    misspellings: [vappy, vappe, vappi]
+    description: Vapi is a developer platform for building and deploying voice AI agents that automate phone conversations. It enables both inbound and outbound calls with realistic voice agents that can access data, perform tasks, and integrate with existing systems.
+    misspellings: [Vappy, Vappe, Vappi]
     nicknames: [Vapi AI]
     category: [Voice, AI Agents, Developer Tool]
     vendor: Vapi
     url: [https://vapi.ai/]
 
   OpenPipe:
-    description: OpenPipe is a platform that helps companies optimize their usage of large language models (LLMs) by collecting user prompts and responses, then automatically fine-tuning smaller, more efficient models tailored to specific use cases. The goal is to reduce costs and latency while maintaining or improving performance compared to using large, general-purpose LLMs. OpenPipe enables teams to gather data from their existing LLM-powered applications, fine-tune open-source models or proprietary models, and deploy these optimized models at scale. The platform is particularly useful for organizations looking to maximize the efficiency of their AI deployments without sacrificing quality.
-    misspellings: [Open Pipe, Openpipe AI, Openpipe.io]
+    description: OpenPipe is a platform that optimizes LLM usage by collecting prompts and responses to fine-tune smaller, more efficient models for specific use cases. Reduces costs and latency while maintaining performance compared to general-purpose LLMs. Enables teams to gather data from existing applications, fine-tune open-source or proprietary models, and deploy optimized models at scale. Helps maximize AI deployment efficiency without sacrificing quality.
+    misspellings: [Open Pipe]
     nicknames: []
     url: [https://openpipe.ai, https://twitter.com/openpipe, https://techcrunch.com/2024/02/08/openpipe-raises-6-7m-to-help-companies-fine-tune-llms/]
 
   Layercode:
-    description: Layercode is a cloud platform designed to enable software developers to build low-latency, production-ready voice AI agents quickly and efficiently. The platform specializes in integrating ultra-low latency voice and video features into AI-powered applications, supporting developers who want to add advanced conversational capabilities to any app. Layercode is known for its developer-friendly approach, offering tools and infrastructure that streamline the deployment and scaling of LLM-powered AI features in real-world environments.
+    description: Layercode is a cloud platform for building low-latency, production-ready voice AI agents. Specializes in integrating ultra-low latency voice and video features into AI applications. Offers developer-friendly tools and infrastructure that streamline deployment and scaling of LLM-powered conversational capabilities in real-world environments.
     misspellings: [Layer Code]
     nicknames: []
     url: [https://layercode.com, https://www.linkedin.com/company/layercode, https://x.com/uselayercode]
 
   Fireworks AI:
-    description: Fireworks AI is a generative artificial intelligence platform specializing in fast, efficient inference and model fine-tuning for large language models (LLMs) and image models. The platform enables developers and enterprises to deploy and scale open-source or custom generative AI models with low latency and high performance, facilitating rapid product iteration and minimizing operational costs. Founded by former leaders from Meta's PyTorch team, Fireworks AI offers a serverless deployment model, supports trillions of inferences daily, and provides full data privacy and model ownership for users. The company serves AI startups, digital-native businesses, and Fortune 500 enterprises, and is known for its advanced optimization across the entire AI stack—from inference orchestration to hardware utilization.
+    description: Fireworks AI is a generative AI platform specializing in fast, efficient inference and fine-tuning for LLMs and image models. Enables deployment of open-source or custom models with low latency and high performance. Founded by former Meta PyTorch leaders, offers serverless deployment, supports trillions of inferences daily, and ensures data privacy and model ownership. Known for advanced optimization across the entire AI stack, from inference orchestration to hardware utilization.
     misspellings: [Fireworks.ai, Fireworks AI Platform, Fireworks]
     nicknames: [Fireworks]
     url: [https://fireworks.ai, https://www.linkedin.com/company/fireworks-ai, https://x.com/FireworksAI_HQ]
