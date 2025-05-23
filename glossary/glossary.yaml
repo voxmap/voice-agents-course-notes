@@ -1,10 +1,10 @@
 People:
   Kwindla Hultman Kramer:
-    description: Kwindla is an American technologist, entrepreneur, and CEO known for his pioneering work in real-time video, audio, and AI infrastructure.
+    description: Kwindla is an American technologist, entrepreneur, and CEO known for his pioneering work in real-time video, audio, and AI infrastructure. He has a long-standing interest in building large-scale, networked systems, dating back to his time at the MIT Media Lab. Prior to Daily, Kwindla co-founded Oblong Industries, which developed multi-device, multi-user operating systems, and has held leadership roles in technology companies. Kwindla is recognized for his advocacy of open-source solutions and his contributions to the evolution of interactive, conversational AI and WebRTC-based technologies.
     misspellings: [kwen, qwen, qwin]
     nicknames: [Kwindla, Kwin]
-    usernames: [kwindla]
-    roles: [Founder, CEO at Daily, Maintainer of Pipecat]
+    usernames: [kwindla, kwkramer]
+    roles: [Founder, CEO at Daily, Maintainer of Pipecat, Host of the Voice Agents course]
 
   Shawn "Swyx" Wang:
     description: Swyx is a prominent developer, founder, writer, and thought leader in the fields of AI engineering and developer tools. He is best known as the Editor and Co-host of Latent Space, a podcast and newsletter that explores the rise of the AI Engineer and the latest trends in artificial intelligence.
@@ -13,17 +13,12 @@ People:
     usernames: [swyx]
     roles: [Editor of the Latent Space newsletter, Cohost of the Latent Space podcast, Founder of Smol AI]
 
-# Add staff members and instructors from the course
-  # In order of appearance would be nice but not required.
-  # Instructors probably need to be paired with their companies as well. Sam Stowers and W&B for example.
-# Instructors:  Mark Backman with Daily, Charles Frye with Modal, Erika Byun with Cartesia, Chongz with Cartesia, Michael Louis with Cerebrium, Hamel Husain, Ian Cairns with FreePlay, Sam Stowers with W&B, Brooke Hopkins with Coval, Morgan McGuire with W&B, Philip Kiely with Baseten, Elizabeth Trykin with Vapi, Kyle Corbitt with OpenPipe, Damien Tanner with Layercode, Stu Kennedy with Layercode, Ray Thai with Fireworks
-
   Mark Backman:
     description: Mark is an innovative and experienced software product leader currently serving as Vice President of Product at Daily. He has a strong background in product management and engineering with previous roles at Oblong Industries, Boeing Satellite Systems, and Raytheon.
     misspellings: [Mark Beckman]
     nicknames: []
     usernames: [markatdaily_34523, MarkAtDaily]
-    roles: [VP of Product at Daily, Speaker, Moderator, Maintainer of Pipecat]
+    roles: [VP of Product at Daily, Speaker, Moderator, Maintainer of Pipecat, Instructor in the Voice Agents course]
 
   Chad Bailey:
     description: Chad is a former rocket scientist and current solutions engineer at Daily, specializing in real-time voice and video communication technologies. Chad helps developers implement advanced voice AI solutions and writes about AI-powered live translation and real-time content moderation for video calls.
@@ -66,6 +61,111 @@ People:
     nicknames: []
     usernames: [vipyne, vanessapyne]
     roles: [Senior Software Engineer at Daily, Open-source contributor, Speaker, Multimedia engineer]
+
+  Charles Frye:
+    description: Charles Frye is a prominent educator and developer advocate with expertise in machine learning, deep learning, and applied mathematics. He is currently working at Modal, a cloud platform focused on GPU-accelerated and data-intensive workloads, and previously led educational initiatives at organizations like The Full Stack and Weights & Biases. Frye has a strong background in computational neuroscience, holding a PhD from UC Berkeley, and is known for his innovative teaching methods and his vision for the future of AI, including the concept of "lmos" (language model operating systems). He has contributed to open-source AI education and spoken at major technical conferences.
+    misspellings: [Charles Fry]
+    nicknames: []
+    usernames: [charles_irl, charles-frye-38654abb]
+    roles: [Developer Advocate at Modal, Instructor in the Voice Agents course, Deep Learning Educator, Conference Speaker]
+
+  Erika Byun:
+    description: Erika Byun is a leading figure in the field of voice and conversational AI, currently working with Cartesia, a company specializing in next-generation voice and audio AI technologies. She has a strong background in product management, voice technology, and AI-driven user experiences. Byun is recognized for her expertise in building scalable and innovative voice agent solutions, as well as her contributions to the broader AI and tech community through speaking engagements, mentorship, and thought leadership.
+    misspellings: [Erica]
+    nicknames: []
+    usernames: [erika-nakamatsu-byun]
+    roles: [Chief of Staff at Cartesia, Instructor in the Voice Agents course, Conversational AI Specialist, Speaker]
+
+  Tim Luong:
+    description: Tim Luong is a key member of the Cartesia team, involved in strategic communications and company milestones. He is recognized for his contributions to Cartesia's growth and public presence, including announcements of funding rounds and product developments. Tim is associated with Cartesia's mission of advancing real-time, ultra-realistic voice AI technology powered by state space models.
+    misspellings: [Tim Luongg, Tim Luongh, Chongs]
+    nicknames: [Chongz]
+    usernames: [timluong, chongzluong, chongz]
+    roles: [Member of Technical Staff at Cartesia, Instructor in the Voice Agents course]
+
+  Michael Louis:
+    description: Michael Louis is the Founder of Cerebrium, a platform focused on simplifying the deployment, scaling, and management of machine learning models on serverless GPUs, with sub-5 second cold-start times and significant cost savings for users. Previously, he co-founded and led OneCart, a South African grocery delivery platform that scaled rapidly during the COVID-19 pandemic and was later acquired by Walmart. Michael has a strong background in AI, blockchain, and consumer marketplaces, and is recognized for his entrepreneurial achievements and technical leadership.
+    misspellings: []
+    nicknames: []
+    usernames: [MichaelLouis_za, michael-louis-94104a113]
+    roles: [Founder at Cerebrium, Instructor in the Voice Agents course, AI Infrastructure Innovator]
+
+  Hamel Husain:
+    description: Hamel Husain is a highly experienced machine learning engineer and consultant with over 25 years in the field. He has held key roles at innovative companies including GitHub (where he was a Staff Machine Learning Engineer), Airbnb, DataRobot, and AlixPartners. Hamel is a core contributor and maintainer at fast.ai, focusing on developer tools, infrastructure, and open-source machine learning projects. He is also the founder of Parlance Labs, a research lab and consultancy specializing in LLM fine-tuning, evaluation systems, and LLM-Ops. Hamel is recognized for his expertise in building scalable ML infrastructure, leading large data science teams, and contributing to early LLM research used by OpenAI for code understanding. He is a frequent speaker, mentor, and author, having co-authored influential articles on building with LLMs and best practices in AI.
+    misspellings: [Husein, Hasan]
+    nicknames: []
+    usernames: [hamelsmu, hamelhusain]
+    roles: [Founder at Parlance Labs, Instructor in the Voice Agents course, Core Contributor at fast.ai, AI Consultant, Author, Speaker]
+
+  Ian Cairns:
+    description: Ian Cairns is the CEO and Co-Founder of Freeplay, a company building a platform for product teams to experiment with, test, and deploy LLM-powered features in their software. He has extensive experience in product management and leadership, previously serving as VP of Product & Design at Firstbase, Director of Product for Twitter's Developer Platform, and in various product roles at Twitter and Gnip (acquired by Twitter). Cairns is recognized for his expertise in developer platforms, data products, and integrating generative AI into product workflows. He is also the co-host of the Deployed podcast, which shares stories and lessons from AI product builders. Cairns is based in Boulder, Colorado, and is active in the tech and AI startup community.
+    misspellings: [Carns, Carins]
+    nicknames: []
+    usernames: [cairns, iancairns]
+    roles: [Cofounder at Freeplay, Instructor in the Voice Agents course, Podcast Host, AI Platform Builder]
+
+  Sam Stowers:
+    description: Sam Stowers is an AI Engineer at Weights & Biases, where he works on the Weave team developing LLM tracing and evaluation tools that help teams build, debug, and monitor generative AI applications. He is passionate about making LLM observability and evaluations accessible, and frequently organizes and speaks at high-signal AI events and hackathons in San Francisco. Sam is also a former healthtech founder, host of Learning Time events, and an active community builder in the effective altruism and BCI (brain-computer interface) tech communities. He is recognized for his creative projects, including AI-driven art installations, innovative LLM-driven agents (or "Language Model Entities"), and educational content on LLM evaluations and deployment.
+    misspellings: [Stower, Stowes]
+    nicknames: []
+    usernames: [samuelstowers, sammakesthings, samsynthesizes]
+    roles: [AI Engineer at Weights & Biases, Instructor in the Voice Agents course, Event Host, Healthtech Founder, Community Builder]
+
+  Brooke Hopkins:
+    description: Brooke Hopkins is the founder and CEO of Coval, a leading simulation and evaluation platform for AI voice and chat agents. Previously, she led the evaluation job infrastructure team at Waymo, where she engineered core simulation systems and developer tools for testing autonomous vehicles. At Coval, she applies the rigorous evaluation and simulation methodologies developed for self-driving cars to the domain of conversational AI, enabling companies to test, monitor, and optimize their AI agents at scale. Hopkins is recognized for her expertise in building robust, automated testing frameworks and for her advocacy of continuous integration and development practices in AI agent deployment. She holds a B.S. in Computer Science and Mathematics from NYU and is based in the San Francisco Bay Area.
+    misspellings: []
+    nicknames: []
+    usernames: [bnhop]
+    roles: [Founder at Coval, Instructor in the Voice Agents course, AI Infrastructure Engineer, Speaker, Entrepreneur]
+
+  Morgan McGuire:
+    description: Morgan McGuire is the Director of Applied AI and previously served as Director of Growth ML at Weights & Biases, where he leads initiatives to scale machine learning productivity, innovation, and customer success. With a background spanning data analysis, machine learning engineering, and business analytics, McGuire has worked at Facebook, Upwork, and several energy and trading firms before joining W&B. He is known for his expertise in NLP, LLM operations, and building robust ML evaluation and integration pipelines. McGuire is also active in the MLOps and AI community, frequently sharing insights on model evaluation, LLM integration, and collaborative ML workflows.
+    misspellings: []
+    nicknames: []
+    usernames: [morganmcg1, morg]
+    roles: [Applied AI at Weights & Biases, Growth ML Engineer, Instructor in the Voice Agents course, Speaker]
+
+  Philip Kiely:
+    description: Philip Kiely is the Lead Developer Advocate at Baseten, an AI inference platform specializing in model deployment and serving infrastructure for LLMs, diffusion models, and custom ML models. He joined Baseten in 2022, initially as a technical writer and developer advocate, and now leads developer relations, working across engineering, marketing, and sales to create technical content, code examples, documentation, and community initiatives. Kiely is also an author, having published "Writing for Software Developers," and runs PK&C, a holding company for his independent projects. He is recognized for his expertise in developer experience, technical communication, and open-source model packaging, particularly with Baseten's Truss framework. Outside of work, he is a lifelong martial artist, avid reader, and active participant in the tech and indie creator communities.
+    misspellings: [Kiley, Keeley, Kielly]
+    nicknames: []
+    usernames: [philipkiely, philip_kiely]
+    roles: [Lead Developer Advocate at Baseten, Technical Writer, Author, Instructor in the Voice Agents course, Open Source Contributor]
+
+  Elizabeth Trykin:
+    description: Elizabeth Trykin is Head of Developer Relations and leads developer experience at Vapi, a platform for building, testing, and deploying advanced voice AI agents. She is passionate about making developer tools accessible and empowering builders of conversational AI. Her background includes roles in developer experience at Exa, product at Invert and Shell, and data science at The University of British Columbia. Elizabeth is known for her community-building events, technical writing, and initiatives like the $20k Vapi Build Challenge, which encourages developers to create innovative voice AI projects. She is also recognized for her advocacy of great DX (developer experience), and for her early work building apps to help nonverbal children communicate.
+    misspellings: [Trykinne, Trykyn, Tryckin]
+    nicknames: []
+    usernames: [lizatrykin, elizabeth-trykin]
+    roles: [Head of Developer Relations at Vapi, Instructor in the Voice Agents course, Community Builder, Technical Writer, Speaker]
+
+  Kyle Corbitt:
+    description: Kyle Corbitt is the Founder and CEO of OpenPipe, a platform that enables developers to fine-tune large language models (LLMs) for specific use cases, making it easy to collect prompt-response pairs and automate the creation of specialized, cost-effective models. He is a seasoned entrepreneur and engineer with experience as a Director at Y Combinator, where he led the development of Startup School, and as a software engineer at Google and Facebook. Corbitt has also co-founded companies such as Emberall and Something New. He is recognized for his deep technical expertise in AI, developer tooling, and startup growth, as well as his contributions to open-source and community-driven education. Based in Bellevue, WA, Corbitt is active in the AI and startup ecosystem, frequently sharing insights on LLM fine-tuning, model deployment, and the future of machine learning.
+    misspellings: [Corbette]
+    nicknames: []
+    usernames: [corbtt, kcorbitt]
+    roles: [Founder at OpenPipe, Instructor in the Voice Agents course, AI Engineer, Entrepreneur, Speaker]
+
+  Damien Tanner:
+    description: Damien C. Tanner is the cofounder and CEO of Layercode, a cloud platform for developers building next-generation LLM-powered applications and voice agents. He has a long track record as a serial entrepreneur and investor, having co-founded and led multiple successful companies including MediaCore (acquired by Workday), Pusher (acquired by MessageBird), and New Bamboo (merged with thoughtbot). Tanner is also active in the AI and developer community, organizing the AI Engineer London Meetup, and is an occasional angel investor and venture partner focused on climate tech, SaaS, and developer tools. He has contributed to open-source projects and is recognized for his expertise in real-time communication, developer platforms, and product-led growth.
+    misspellings: [Damian, Tannor]
+    nicknames: []
+    usernames: [dctanner]
+    roles: [Cofounder at Layercode, Instructor in the Voice Agents course, Entrepreneur, AI Community Organizer, Open Source Contributor]
+
+  Stu Kennedy:
+    description: Stu Kennedy is the Founding AI Engineer at Layercode, where he develops full-stack AI platforms and contributes to the advancement of cloud-based LLM and voice agent technologies. With a background as a mathematician and data scientist, Kennedy is known for his enthusiasm for HTMX and modern web development techniques. He is also a part-time musician and artist, blending creativity with technical innovation. Kennedy has completed studies at the University of Strathclyde and is recognized for his expertise in AI solutions architecture, as well as his ability to bridge the gap between complex technical systems and accessible user experiences.
+    misspellings: [Stew]
+    nicknames: []
+    usernames: [stukennedydev, stu-kennedy]
+    roles: [Founding AI Engineer at Layercode, AI Solutions Architect, Instructor in the Voice Agents course, HTMX Enthusiast]
+
+  Ray Thai:
+    description: Raymond Thai is the Founding Product Manager at Fireworks AI. He guides the company's product roadmap and new feature development, leveraging his prior experience as a product manager for Google AI Studio and the Gemini API, where he helped lead the development of tools for rapid prototyping with LLMs. Thai is recognized for his expertise in productizing open source models, optimizing inference stacks for speed and cost, and addressing the challenges of scaling generative AI for production use. He is a frequent speaker at industry events, including the AI Engineer World's Fair and Data + AI Summit, and holds a Master's and Bachelor's in Computer Science from Stanford University.
+    misspellings: []
+    nicknames: []
+    usernames: [raymondcthai]
+    roles: [Founding Product Manager at Fireworks AI, AI Product Leader, Speaker, Instructor in the Voice Agents course]
 
 
 Companies:
