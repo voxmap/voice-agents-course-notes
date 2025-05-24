@@ -46,6 +46,15 @@ A collection of projects and resources related to voice agents from community me
 - Link: https://voice101.ai/
 
 
+## Customer Service Voice Agent for Automotive Business
+
+- Description: A customer service agent built with Pipecat and LlamaIndex using STT->LLM->TTS pipeline. Features RAG-powered business Q&A, appointment scheduling via webhook, and multiple deployment options.
+- Username: star2win
+- Date: 2025-05-23 18:14
+- Location: [in Discord](https://discord.com/channels/1239284677165056021/1374500385187958784/1375597843884150804)
+- Link: https://github.com/star2win/customer-service-voice-agent
+
+
 ## Session Recaps
 
 Links:
