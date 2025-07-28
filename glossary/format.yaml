@@ -35,9 +35,9 @@ Frameworks:  # Template for a technology, framework, or standard
     description: A detailed description of the framework or standard
     misspellings: []  # Common misspellings of the framework name by ASR models
     nicknames: []  # Alternative names it is known by
-    use_cases: []  # Common applications or problems it solves
+    category: []  # Type of framework (Voice, Framework, Library, Agent, etc.)
+    vendor: ""  # Company or individual that created/maintains it
     url: []  # Links to documentation, specs, or websites
-    related: []  # Related frameworks or standards
 
 Events:  # Template for an event
   Event:
